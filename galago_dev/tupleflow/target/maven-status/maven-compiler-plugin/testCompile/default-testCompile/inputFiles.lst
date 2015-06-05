@@ -1,0 +1,13 @@
+/opt/galago-dev/galago/tupleflow/src/test/java/org/lemurproject/galago/tupleflow/execution/NetworkedCounterTest.java
+/opt/galago-dev/galago/tupleflow/src/test/java/org/lemurproject/galago/tupleflow/FakeType.java
+/opt/galago-dev/galago/tupleflow/src/test/java/org/lemurproject/galago/tupleflow/UtilityTest.java
+/opt/galago-dev/galago/tupleflow/src/test/java/org/lemurproject/galago/tupleflow/TextWriterTest.java
+/opt/galago-dev/galago/tupleflow/src/test/java/org/lemurproject/galago/tupleflow/OrderedCombinerTest.java
+/opt/galago-dev/galago/tupleflow/src/test/java/org/lemurproject/galago/tupleflow/execution/JobTest.java
+/opt/galago-dev/galago/tupleflow/src/test/java/org/lemurproject/galago/tupleflow/LinkageTest.java
+/opt/galago-dev/galago/tupleflow/src/test/java/org/lemurproject/galago/tupleflow/CompressionTest.java
+/opt/galago-dev/galago/tupleflow/src/test/java/org/lemurproject/galago/tupleflow/VByteOutputTest.java
+/opt/galago-dev/galago/tupleflow/src/test/java/org/lemurproject/galago/tupleflow/SorterTest.java
+/opt/galago-dev/galago/tupleflow/src/test/java/org/lemurproject/galago/tupleflow/VByteInputTest.java
+/opt/galago-dev/galago/tupleflow/src/test/java/org/lemurproject/galago/tupleflow/execution/MultiConnectionTest.java
+/opt/galago-dev/galago/tupleflow/src/test/java/org/lemurproject/galago/tupleflow/execution/ConnectionTest.java

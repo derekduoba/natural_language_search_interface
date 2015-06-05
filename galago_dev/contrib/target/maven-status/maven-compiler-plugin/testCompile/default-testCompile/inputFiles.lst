@@ -1,0 +1,11 @@
+/opt/galago-dev/galago/contrib/src/test/java/org/lemurproject/galago/contrib/learning/GridSearchLearnerTest.java
+/opt/galago-dev/galago/contrib/src/test/java/org/lemurproject/galago/contrib/tools/BuildBackgroundTest.java
+/opt/galago-dev/galago/contrib/src/test/java/org/lemurproject/galago/contrib/learning/CoordinateAscentLearnerTest.java
+/opt/galago-dev/galago/contrib/src/test/java/org/lemurproject/galago/contrib/tools/BuildSpecialCollBackgroundTest.java
+/opt/galago-dev/galago/contrib/src/test/java/org/lemurproject/galago/contrib/tools/AppTest.java
+/opt/galago-dev/galago/contrib/src/test/java/org/lemurproject/galago/contrib/tools/GenerateWorkingSetQueriesTest.java
+/opt/galago-dev/galago/contrib/src/test/java/org/lemurproject/galago/contrib/tools/BuildFilteredCollectionTest.java
+/opt/galago-dev/galago/contrib/src/test/java/org/lemurproject/galago/contrib/tools/BuildSketchIndexTest.java
+/opt/galago-dev/galago/contrib/src/test/java/org/lemurproject/galago/contrib/learning/XFoldLearnerTest.java
+/opt/galago-dev/galago/contrib/src/test/java/org/lemurproject/galago/contrib/learning/LearnerTest.java
+/opt/galago-dev/galago/contrib/src/test/java/org/lemurproject/galago/contrib/util/TestingUtils.java

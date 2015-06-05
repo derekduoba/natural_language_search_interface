@@ -1,0 +1,6 @@
+/opt/galago-dev/galago/eval/src/test/java/org/lemurproject/galago/core/eval/QrelTest.java
+/opt/galago-dev/galago/eval/src/test/java/org/lemurproject/galago/core/eval/AveragePrecisionTest.java
+/opt/galago-dev/galago/eval/src/test/java/org/lemurproject/galago/core/eval/RPrecisionTest.java
+/opt/galago-dev/galago/eval/src/test/java/org/lemurproject/galago/core/eval/PrecisionTest.java
+/opt/galago-dev/galago/eval/src/test/java/org/lemurproject/galago/core/eval/RecallTest.java
+/opt/galago-dev/galago/eval/src/test/java/org/lemurproject/galago/core/eval/QuerySetResultsTest.java
