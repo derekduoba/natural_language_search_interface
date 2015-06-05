@@ -1,0 +1,23 @@
+STARTING RUN WITH 8 PROCESSES
+CREATING NODES FOR 3224547 MOVIES
+ERROR: COULD NOT PARSE MOVIE WITH ID: 2680117
+TRACEBACK:
+Traceback (most recent call last):
+  File "generate_xml_nodes.py", line 53, in create_nodes
+    tree = ElementTree.XML(result.asXML(), parser)
+  File "/usr/local/lib/python2.7/dist-packages/IMDbPY-5.1dev_20150313-py2.7-linux-x86_64.egg/imdb/utils.py", line 1452, in asXML
+    value = self.getAsXML(key, _with_add_keys=_with_add_keys)
+  File "/usr/local/lib/python2.7/dist-packages/IMDbPY-5.1dev_20150313-py2.7-linux-x86_64.egg/imdb/utils.py", line 1441, in getAsXML
+    fullpath=tag))
+  File "/usr/local/lib/python2.7/dist-packages/IMDbPY-5.1dev_20150313-py2.7-linux-x86_64.egg/imdb/utils.py", line 1088, in _seq2xml
+    fullpath='%s.%s' % (fullpath, tagName))
+  File "/usr/local/lib/python2.7/dist-packages/IMDbPY-5.1dev_20150313-py2.7-linux-x86_64.egg/imdb/utils.py", line 1102, in _seq2xml
+    item.__class__.__name__.lower()))
+  File "/usr/local/lib/python2.7/dist-packages/IMDbPY-5.1dev_20150313-py2.7-linux-x86_64.egg/imdb/utils.py", line 1117, in _seq2xml
+    _l.extend(_tag4TON(seq))
+  File "/usr/local/lib/python2.7/dist-packages/IMDbPY-5.1dev_20150313-py2.7-linux-x86_64.egg/imdb/utils.py", line 963, in _tag4TON
+    crValue = cr['long imdb name']
+  File "/usr/local/lib/python2.7/dist-packages/IMDbPY-5.1dev_20150313-py2.7-linux-x86_64.egg/imdb/utils.py", line 1472, in __getitem__
+    rawData = self.data[key]
+KeyError: 'long imdb name'
+

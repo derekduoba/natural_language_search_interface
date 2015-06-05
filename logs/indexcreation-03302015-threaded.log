@@ -1,0 +1,16 @@
+Created executor: org.lemurproject.galago.tupleflow.execution.ThreadedCheckpointedStageExecutor@77d21a9b
+2015-03-30 15:21:19.287:INFO:oejs.Server:jetty-7.6.8.v20121106
+2015-03-30 15:21:19.361:INFO:oejs.AbstractConnector:Started SelectChannelConnector@0.0.0.0:8080
+Stage inputSplit completed with 0 errors.
+Mar 30, 2015 3:21:19 PM org.lemurproject.galago.core.parse.UniversalParser process
+INFO: Processing split: /home/dduoba/data/galago/galago-corpus with: org.lemurproject.galago.core.parse.CorpusSplitParser
+Mar 30, 2015 3:21:19 PM org.lemurproject.galago.core.parse.UniversalParser process
+INFO: Processing split: /home/dduoba/data/galago/galago-corpus with: org.lemurproject.galago.core.parse.CorpusSplitParser
+Mar 30, 2015 3:21:19 PM org.lemurproject.galago.core.parse.UniversalParser process
+INFO: Processing split: /home/dduoba/data/galago/galago-corpus with: org.lemurproject.galago.core.parse.CorpusSplitParser
+Mar 30, 2015 3:21:19 PM org.lemurproject.galago.core.parse.UniversalParser process
+INFO: Processing split: /home/dduoba/data/galago/galago-corpus with: org.lemurproject.galago.core.parse.CorpusSplitParser
+Mar 30, 2015 3:21:19 PM org.lemurproject.galago.core.parse.UniversalParser process
+INFO: Processing split: /home/dduoba/data/galago/galago-corpus with: org.lemurproject.galago.core.parse.CorpusSplitParser
+Mar 30, 2015 3:21:19 PM org.lemurproject.galago.core.parse.UniversalParser process
+INFO: Processing split: /home/dduoba/data/galago/galago-corpus with: org.lemurproject.galago.core.parse.CorpusSplitParser

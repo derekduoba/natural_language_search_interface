@@ -1,0 +1,2769 @@
+info: Starting winston logger
+Express server listening on port 3000
+[90mGET /querylist [36m304 [90m67ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m336ms - 7.9kb[0m
+[90mGET /stylesheets/bootstrap_overrides.css [32m200 [90m8ms - 2.2kb[0m
+[90mGET /javascripts/global.js [32m200 [90m14ms - 9.83kb[0m
+[90mGET /blog//wp-login.php [33m404 [90m2ms[0m
+[90mGET /wordpress//wp-login.php [33m404 [90m3ms[0m
+[90mGET /wp//wp-login.php [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [36m304 [90m136ms[0m
+[90mGET /stylesheets/bootstrap_overrides.css [36m304 [90m4ms[0m
+[90mGET /javascripts/global.js [36m304 [90m2ms[0m
+[90mGET /images/preloader.gif [36m304 [90m17ms[0m
+[90mGET /muieblackcat [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //phpmyadmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //pma/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //myadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //MyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m122ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m129ms - 7.9kb[0m
+[90mGET /tmUnblock.cgi [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m111ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://www.sina.com.cn/ [32m200 [90m106ms - 7.9kb[0m
+[90mGET /phph/php/ph.php [33m404 [90m1ms[0m
+[90mGET /phpMyAdmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET /pma/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /myadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /CFIDE/administrator/ [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m95ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://www.google.com/ [32m200 [90m101ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m114ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m132ms - 7.9kb[0m
+[90mGET /rom-0 [33m404 [90m2ms[0m
+[90mGET /blog//wp-login.php [33m404 [90m2ms[0m
+[90mGET /wordpress//wp-login.php [33m404 [90m1ms[0m
+[90mGET /wp//wp-login.php [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m91ms - 7.9kb[0m
+[90mGET /muieblackcat [33m404 [90m2ms[0m
+[90mGET //phpMyAdmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //phpmyadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //pma/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //PMA/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //myadmin/scripts/setup.php [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m96ms - 7.9kb[0m
+[90mGET /tmUnblock.cgi [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m102ms - 7.9kb[0m
+[90mGET /tmUnblock.cgi [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m92ms - 7.9kb[0m
+[90mGET /CFIDE/administrator/enter.cfm [33m404 [90m1ms[0m
+[90mGET /tmUnblock.cgi [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m93ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mHEAD / [32m200 [90m112ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m128ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://www.sina.com.cn/ [32m200 [90m93ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mHEAD / [32m200 [90m97ms - 7.9kb[0m
+[90mGET /rom-0 [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mHEAD / [32m200 [90m91ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://www.google.com/ [32m200 [90m170ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m98ms - 7.9kb[0m
+[90mGET /querylist [36m304 [90m9ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [36m304 [90m89ms[0m
+[90mGET /stylesheets/bootstrap_overrides.css [36m304 [90m3ms[0m
+[90mGET /javascripts/global.js [36m304 [90m1ms[0m
+[90mGET /images/preloader.gif [36m304 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m85ms - 7.9kb[0m
+[90mGET /stylesheets/bootstrap_overrides.css [32m200 [90m3ms - 2.2kb[0m
+[90mGET /javascripts/global.js [32m200 [90m3ms - 9.83kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m87ms - 7.9kb[0m
+[90mGET /stylesheets/bootstrap_overrides.css [32m200 [90m2ms - 2.2kb[0m
+[90mGET /javascripts/global.js [32m200 [90m2ms - 9.83kb[0m
+[90mGET /images/preloader.gif [32m200 [90m21ms - 3.13kb[0m
+info: SUCCESS 0: Sucessfully submitted query data
+[90mPOST /api/sendquerydata [32m200 [90m41ms - 430b[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://www.w3.org/ [32m200 [90m117ms - 7.9kb[0m
+[90mGET http://testp4.pospr.waw.pl/testproxy.php [33m404 [90m3ms[0m
+[90mGET /tmUnblock.cgi [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m107ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m109ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m92ms - 7.9kb[0m
+[90mGET /tmUnblock.cgi [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m87ms - 7.9kb[0m
+[90mGET /rom-0 [33m404 [90m2ms[0m
+[90mGET http://en.wikipedia.org/wiki/Main_Page [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m85ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mHEAD / [32m200 [90m112ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://www.sciencedirect.com/ [32m200 [90m138ms - 7.9kb[0m
+[90mGET /tmUnblock.cgi [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m92ms - 7.9kb[0m
+[90mGET /tmUnblock.cgi [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m95ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://www.sciencedirect.com/ [32m200 [90m90ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mHEAD / [32m200 [90m112ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://24x7-allrequestsallowed.com/?PHPSESSID=a77ad01b00143PP%5BJWWHY%40%40%5EJFQ%5C [32m200 [90m161ms - 7.9kb[0m
+[90mGET /cgi-bin/test-cgi [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m96ms - 7.9kb[0m
+[90mGET /querylist [32m200 [90m9ms - 25.78kb[0m
+[90mGET /CFIDE/administrator/ [33m404 [90m1ms[0m
+[90mGET /querylist [36m304 [90m7ms[0m
+[90mGET /querylist [32m200 [90m8ms - 25.86kb[0m
+[90mGET /querylist [36m304 [90m7ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m92ms - 7.9kb[0m
+[90mGET http://onlinelibrary.wiley.com/browse/publications?type=journal&activeLetter= [33m404 [90m2ms[0m
+[90mGET http://pubs.rsc.org/en/content/articlelanding/2013/an/c2an35254k [33m404 [90m1ms[0m
+[90mGET /tmUnblock.cgi [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m97ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m93ms - 7.9kb[0m
+[90mGET /querylist [32m200 [90m12ms - 28.83kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m159ms - 7.9kb[0m
+[90mGET /tmUnblock.cgi [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m95ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m89ms - 7.9kb[0m
+[90mGET /manager/html [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m86ms - 7.9kb[0m
+[90mGET /rom-0 [33m404 [90m2ms[0m
+[90mGET /muieblackcat [33m404 [90m2ms[0m
+[90mGET //phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpmyadmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //pma/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //myadmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //MyAdmin/scripts/setup.php [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m85ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m88ms - 7.9kb[0m
+[90mGET /tmUnblock.cgi [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m111ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m115ms - 7.9kb[0m
+[90mGET /HNAP1 [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m90ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m107ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://www.sciencedirect.com/ [32m200 [90m90ms - 7.9kb[0m
+[90mGET /manager/html [33m404 [90m2ms[0m
+[90mGET /rom-0 [33m404 [90m1ms[0m
+[90mGET /cgi-bin/bash [33m404 [90m2ms[0m
+[90mGET /cgi-bin/index.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/meme.cgi [33m404 [90m5ms[0m
+[90mGET /cgi-bin/php [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php5 [33m404 [90m4ms[0m
+[90mGET /cgi-bin/php5-cli [33m404 [90m2ms[0m
+[90mGET /cgi-bin-sdb/printenv [33m404 [90m2ms[0m
+[90mGET /cgi-bin/test-cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/test-cgi.pl [33m404 [90m2ms[0m
+[90mGET /cgi-bin/test.sh [33m404 [90m1ms[0m
+[90mGET /cgi-bin/tools/tools.pl [33m404 [90m1ms[0m
+[90mGET /tmUnblock.cgi [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m87ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m109ms - 7.9kb[0m
+[90mGET /robots.txt [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m129ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m93ms - 7.9kb[0m
+[90mGET /rom-0 [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [36m304 [90m92ms[0m
+[90mGET /stylesheets/bootstrap_overrides.css [36m304 [90m21ms[0m
+[90mGET /javascripts/global.js [36m304 [90m16ms[0m
+[90mGET /querylist [36m304 [90m10ms[0m
+[90mGET /querylist [36m304 [90m6ms[0m
+[90mGET /muieblackcat [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //phpmyadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //pma/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //myadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //MyAdmin/scripts/setup.php [33m404 [90m14ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m91ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m91ms - 7.9kb[0m
+[90mGET /querylist [36m304 [90m7ms[0m
+[90mGET /querylist [36m304 [90m6ms[0m
+[90mGET /querylist [36m304 [90m6ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m122ms - 7.9kb[0m
+[90mGET /robots.txt [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m106ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m91ms - 7.9kb[0m
+[90mGET /robots.txt [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m106ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m93ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://24x7-allrequestsallowed.com/?PHPSESSID=a77ad01b00143PP%5BJWWHY%40%40%5EJFQ%5C [32m200 [90m116ms - 7.9kb[0m
+[90mHEAD /cp_errordocument.shtml [33m404 [90m14ms[0m
+[90mGET /crazy.jsp [33m404 [90m16ms[0m
+[90mGET /lemon.jsp?z0=utf-8 [33m404 [90m2ms[0m
+[90mGET /in.jsp?z0=utf-8 [33m404 [90m24ms[0m
+[90mGET /jay.jsp [33m404 [90m3ms[0m
+[90mGET /test1.jsp?z0=utf-8 [33m404 [90m1ms[0m
+[90mGET /whysec.jsp [33m404 [90m2ms[0m
+[90mGET /nimei.jsp [33m404 [90m1ms[0m
+[90mGET /index_bak1.jsp?z0=utf-8 [33m404 [90m2ms[0m
+[90mGET /tom.jsp [33m404 [90m2ms[0m
+[90mGET /systemconfig.jsp [33m404 [90m1ms[0m
+[90mGET /one.jsp?z0=utf-8 [33m404 [90m1ms[0m
+[90mGET /one8.jsp?f=one8.txt&t=In%20fact%20he%20could%20scorcely%20have%20spont%20his%20time%20more [33m404 [90m1ms[0m
+[90mGET /one8.txt [33m404 [90m1ms[0m
+[90mGET /nike.jsp?z0=utf-8 [33m404 [90m1ms[0m
+[90mGET /baka.jsp?z0=utf-8 [33m404 [90m1ms[0m
+[90mGET /null.jsp [33m404 [90m1ms[0m
+[90mGET /webconfig.jsp?z0=utf-8 [33m404 [90m2ms[0m
+[90mGET /Sroot.jsp [33m404 [90m1ms[0m
+[90mGET /helper.jsp?z0=utf-8 [33m404 [90m2ms[0m
+[90mGET /cshelp.jsp [33m404 [90m2ms[0m
+[90mGET /css.jsp?f=css.txt&t=In%20fact%20he%20could%20scorcely%20have%20spont%20his%20time%20more [33m404 [90m2ms[0m
+[90mGET /css.txt [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [36m304 [90m221ms[0m
+[90mGET /stylesheets/bootstrap_overrides.css [36m304 [90m5ms[0m
+[90mGET /javascripts/global.js [36m304 [90m17ms[0m
+[90mGET /querylist [32m200 [90m68ms - 28.33kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m91ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m90ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m89ms - 7.9kb[0m
+[90mGET /stylesheets/bootstrap_overrides.css [32m200 [90m15ms - 2.2kb[0m
+[90mGET /javascripts/global.js [32m200 [90m20ms - 9.83kb[0m
+[90mGET /rom-0 [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m106ms - 7.9kb[0m
+[90mGET /stylesheets/bootstrap_overrides.css [32m200 [90m4ms - 2.2kb[0m
+[90mGET /javascripts/global.js [32m200 [90m3ms - 9.83kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m92ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m107ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m132ms - 7.9kb[0m
+[90mGET /querylist [36m304 [90m31ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m84ms - 7.9kb[0m
+[90mGET /querylist [32m200 [90m35ms - 28.33kb[0m
+[90mGET /querylist [32m200 [90m25ms - 28.33kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m90ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mHEAD / [32m200 [90m91ms - 7.9kb[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m104ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m94ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [36m304 [90m89ms[0m
+[90mGET /stylesheets/bootstrap_overrides.css [36m304 [90m1ms[0m
+[90mGET /javascripts/global.js [36m304 [90m2ms[0m
+[90mGET /querylist [36m304 [90m35ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://www.google.com/ [32m200 [90m111ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://www.google.com/ [32m200 [90m141ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m145ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m90ms - 7.9kb[0m
+[90mGET http://www.metapress.com/home/main.mpx [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m87ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m106ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m114ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m107ms - 7.9kb[0m
+[90mGET /robots.txt [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://www.ip.cn/ [32m200 [90m135ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m85ms - 7.9kb[0m
+[90mGET /robots.txt [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://www.sina.com.cn/ [32m200 [90m114ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m86ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m171ms - 7.9kb[0m
+[90mGET /rom-0 [33m404 [90m9ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m206ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://24x7-allrequestsallowed.com/?PHPSESSID=a77ad01b00143PP%5BJWWHY%40%40%5EJFQ%5C [32m200 [90m84ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m118ms - 7.9kb[0m
+[90mHEAD /love.php [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m114ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m130ms - 7.9kb[0m
+[90mGET /stylesheets/bootstrap_overrides.css [32m200 [90m27ms - 2.2kb[0m
+[90mGET /javascripts/global.js [32m200 [90m15ms - 9.83kb[0m
+[90mGET /images/preloader.gif [32m200 [90m37ms - 3.13kb[0m
+[90mGET /images/preloader.gif [36m304 [90m17ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [36m304 [90m92ms[0m
+[90mGET /stylesheets/bootstrap_overrides.css [36m304 [90m2ms[0m
+[90mGET /javascripts/global.js [36m304 [90m1ms[0m
+[90mGET /images/preloader.gif [32m200 [90m2ms - 3.13kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [36m304 [90m107ms[0m
+[90mGET /stylesheets/bootstrap_overrides.css [36m304 [90m1ms[0m
+[90mGET /javascripts/global.js [36m304 [90m1ms[0m
+[90mGET /images/preloader.gif [36m304 [90m1ms[0m
+info: SUCCESS 0: Sucessfully submitted query data
+[90mPOST /api/sendquerydata [32m200 [90m282ms - 430b[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [36m304 [90m91ms[0m
+[90mGET /stylesheets/bootstrap_overrides.css [36m304 [90m1ms[0m
+[90mGET /javascripts/global.js [36m304 [90m2ms[0m
+[90mGET /images/preloader.gif [36m304 [90m1ms[0m
+info: SUCCESS 0: Sucessfully submitted query data
+[90mPOST /api/sendquerydata [32m200 [90m12ms - 430b[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [36m304 [90m86ms[0m
+[90mGET /stylesheets/bootstrap_overrides.css [36m304 [90m2ms[0m
+[90mGET /javascripts/global.js [36m304 [90m3ms[0m
+[90mGET /images/preloader.gif [36m304 [90m1ms[0m
+info: SUCCESS 0: Sucessfully submitted query data
+[90mPOST /api/sendquerydata [32m200 [90m10ms - 430b[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [36m304 [90m118ms[0m
+[90mGET /stylesheets/bootstrap_overrides.css [36m304 [90m3ms[0m
+[90mGET /javascripts/global.js [36m304 [90m2ms[0m
+[90mGET /images/preloader.gif [36m304 [90m1ms[0m
+info: SUCCESS 0: Sucessfully submitted query data
+[90mPOST /api/sendquerydata [32m200 [90m34ms - 430b[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [36m304 [90m80ms[0m
+[90mGET /stylesheets/bootstrap_overrides.css [36m304 [90m1ms[0m
+[90mGET /javascripts/global.js [36m304 [90m1ms[0m
+[90mGET /images/preloader.gif [36m304 [90m1ms[0m
+info: SUCCESS 0: Sucessfully submitted query data
+[90mPOST /api/sendquerydata [32m200 [90m40ms - 430b[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m93ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m89ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://www.w3.org/ [32m200 [90m86ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m85ms - 7.9kb[0m
+[90mGET http://www.metapress.com/home/main.mpx [33m404 [90m2ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m2ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m2ms[0m
+[90mGET /manager/html [33m404 [90m2ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m2ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m2ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://www.w3.org/ [32m200 [90m123ms - 7.9kb[0m
+[90mPOST / [33m404 [90m305ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m119ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m89ms - 7.9kb[0m
+[90mGET /docs/funcspecs/3.jsp [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m106ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m91ms - 7.9kb[0m
+[90mGET /rom-0 [33m404 [90m2ms[0m
+[90mGET /muieblackcat [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //phpmyadmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //pma/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //myadmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //MyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET http://www.sciencedirect.com/science/journals [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m87ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m142ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m132ms - 7.9kb[0m
+[90mGET /tmUnblock.cgi [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m83ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m92ms - 7.9kb[0m
+[90mGET /admin/bootstrap.inc.php?mgp=danc3Uf@t&c=whoami [33m404 [90m1ms[0m
+[90mGET /querylist [32m200 [90m41ms - 30.52kb[0m
+[90mGET /querylist [32m200 [90m43ms - 30.75kb[0m
+[90mPOST /login.action [33m404 [90m514ms[0m
+[90mPOST /cgi-bin/php?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%22%79%65%73%22+%2D%64+%63%67%69%2E%66%69%78%5F%70%61%74%68%69%6E%66%6F%3D%31+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%6E [33m404 [90m782ms[0m
+[90mPOST /cgi-bin/php5?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%22%79%65%73%22+%2D%64+%63%67%69%2E%66%69%78%5F%70%61%74%68%69%6E%66%6F%3D%31+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%6E [33m404 [90m970ms[0m
+[90mPOST /cgi-bin/php-cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%22%79%65%73%22+%2D%64+%63%67%69%2E%66%69%78%5F%70%61%74%68%69%6E%66%6F%3D%31+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%6E [33m404 [90m585ms[0m
+[90mPOST /cgi-bin/php5-cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%22%79%65%73%22+%2D%64+%63%67%69%2E%66%69%78%5F%70%61%74%68%69%6E%66%6F%3D%31+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%6E [33m404 [90m583ms[0m
+[90mPOST /cgi-bin/php-cgi.bin?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%22%79%65%73%22+%2D%64+%63%67%69%2E%66%69%78%5F%70%61%74%68%69%6E%66%6F%3D%31+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%6E [33m404 [90m865ms[0m
+[90mGET /cgi-bin/php [33m404 [90m1ms[0m
+[90mGET /querylist [36m304 [90m7ms[0m
+[90mGET /cgi-bin/php [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m93ms - 7.9kb[0m
+[90mGET /cgi-bin/bash [33m404 [90m1ms[0m
+[90mGET /cgi-bin/contact.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/defaultwebpage.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/env.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/forum.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/hello.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/index.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/login.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/main.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php4 [33m404 [90m22ms[0m
+[90mGET /cgi-bin/php5 [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php5-cli [33m404 [90m3ms[0m
+[90mGET /cgi-bin/recent.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/sat-ir-web.pl [33m404 [90m1ms[0m
+[90mGET /cgi-bin/test-cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/test.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin-sdb/printenv [32m200 [90m1ms[0m
+[90mGET /cgi-bin/test-cgi.pl [33m404 [90m1ms[0m
+[90mGET /cgi-bin/tools/tools.pl [33m404 [90m1ms[0m
+[90mGET /cgi-mod/index.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/defaultwebpage.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/entropysearch.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/php5 [33m404 [90m1ms[0m
+[90mGET /phppath/cgi_wrapper [33m404 [90m2ms[0m
+[90mGET /phppath/php [33m404 [90m1ms[0m
+[90mGET /muieblackcat [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //phpmyadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //pma/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //myadmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //MyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m86ms - 7.9kb[0m
+[90mGET /cgi-bin/php [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m94ms - 7.9kb[0m
+[90mGET /cgi-bin/bash [33m404 [90m1ms[0m
+[90mGET /cgi-bin/contact.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/defaultwebpage.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/env.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/forum.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/hello.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/index.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/login.cgi [33m404 [90m3ms[0m
+[90mGET /cgi-bin/main.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php4 [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php5 [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php5-cli [33m404 [90m1ms[0m
+[90mGET /cgi-bin/recent.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/sat-ir-web.pl [33m404 [90m1ms[0m
+[90mGET /cgi-bin-sdb/printenv [33m404 [90m1ms[0m
+[90mGET /cgi-bin/test-cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/test.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/test-cgi.pl [33m404 [90m2ms[0m
+[90mGET /cgi-bin/tools/tools.pl [33m404 [90m2ms[0m
+[90mGET /cgi-mod/index.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-sys/defaultwebpage.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/entropysearch.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/php5 [33m404 [90m2ms[0m
+[90mGET /phppath/cgi_wrapper [33m404 [90m2ms[0m
+[90mGET /phppath/php [33m404 [90m3ms[0m
+[90mGET //admin/config.php [33m404 [90m2ms[0m
+[90mGET /cgi-bin/php [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m172ms - 7.9kb[0m
+[90mGET /cgi-bin/bash [33m404 [90m2ms[0m
+[90mGET /cgi-bin/contact.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/defaultwebpage.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/env.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/forum.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/hello.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/index.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/login.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/main.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php4 [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php5 [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php5-cli [33m404 [90m2ms[0m
+[90mGET /cgi-bin/recent.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/sat-ir-web.pl [33m404 [90m2ms[0m
+[90mGET /cgi-bin-sdb/printenv [33m404 [90m1ms[0m
+[90mGET /cgi-bin/test-cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/test.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/test-cgi.pl [33m404 [90m1ms[0m
+[90mGET /cgi-bin/tools/tools.pl [33m404 [90m1ms[0m
+[90mGET /cgi-mod/index.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/defaultwebpage.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-sys/entropysearch.cgi [33m404 [90m3ms[0m
+[90mGET /cgi-sys/php5 [33m404 [90m1ms[0m
+[90mGET /phppath/cgi_wrapper [33m404 [90m1ms[0m
+[90mGET /phppath/php [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m95ms - 7.9kb[0m
+[90mGET /cgi-bin/php [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m94ms - 7.9kb[0m
+[90mGET /cgi-bin/bash [33m404 [90m1ms[0m
+[90mGET /cgi-bin/contact.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/defaultwebpage.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/env.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/forum.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/hello.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/index.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/login.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/main.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php4 [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php5 [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php5-cli [33m404 [90m1ms[0m
+[90mGET /cgi-bin/recent.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/sat-ir-web.pl [33m404 [90m1ms[0m
+[90mGET /cgi-bin-sdb/printenv [33m404 [90m1ms[0m
+[90mGET /cgi-bin/test-cgi [33m404 [90m3ms[0m
+[90mGET /cgi-bin/test.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/test-cgi.pl [33m404 [90m1ms[0m
+[90mGET /cgi-bin/tools/tools.pl [33m404 [90m2ms[0m
+[90mGET /cgi-mod/index.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/defaultwebpage.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/entropysearch.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/php5 [33m404 [90m1ms[0m
+[90mGET /phppath/cgi_wrapper [33m404 [90m1ms[0m
+[90mGET /phppath/php [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m88ms - 7.9kb[0m
+[90mGET /querylist [36m304 [90m8ms[0m
+[90mGET /cgi-bin/php [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m92ms - 7.9kb[0m
+[90mGET /cgi-bin/bash [33m404 [90m1ms[0m
+[90mGET /cgi-bin/contact.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/defaultwebpage.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/env.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/forum.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/hello.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/index.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/login.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/main.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php4 [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php5 [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php5-cli [33m404 [90m3ms[0m
+[90mGET /cgi-bin/recent.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/sat-ir-web.pl [33m404 [90m1ms[0m
+[90mGET /cgi-bin-sdb/printenv [33m404 [90m2ms[0m
+[90mGET /cgi-bin/test-cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/test.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/test-cgi.pl [33m404 [90m1ms[0m
+[90mGET /cgi-bin/tools/tools.pl [33m404 [90m1ms[0m
+[90mGET /cgi-mod/index.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/defaultwebpage.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/entropysearch.cgi [33m404 [90m11ms[0m
+[90mGET /cgi-sys/php5 [33m404 [90m1ms[0m
+[90mGET /phppath/cgi_wrapper [33m404 [90m2ms[0m
+[90mGET /phppath/php [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mHEAD / [32m200 [90m176ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mHEAD / [32m200 [90m92ms - 7.9kb[0m
+[90mGET /cgi-bin/php [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m92ms - 7.9kb[0m
+[90mGET /cgi-bin/bash [33m404 [90m1ms[0m
+[90mGET /cgi-bin/contact.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/defaultwebpage.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/env.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/fire.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/forum.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/hello.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/index.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/login.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/main.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/meme.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php4 [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php5 [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php5-cli [33m404 [90m2ms[0m
+[90mGET /cgi-bin/recent.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/sat-ir-web.pl [33m404 [90m1ms[0m
+[90mGET /cgi-bin-sdb/printenv [33m404 [90m1ms[0m
+[90mGET /cgi-bin/test-cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/test.cgi [33m404 [90m3ms[0m
+[90mGET /cgi-bin/test-cgi.pl [33m404 [90m1ms[0m
+[90mGET /cgi-bin/test.sh [33m404 [90m1ms[0m
+[90mGET /cgi-bin/tools/tools.pl [33m404 [90m1ms[0m
+[90mGET /cgi-mod/index.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/defaultwebpage.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/entropysearch.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/php5 [33m404 [90m1ms[0m
+[90mGET /phppath/cgi_wrapper [33m404 [90m1ms[0m
+[90mGET /phppath/php [33m404 [90m2ms[0m
+[90mGET /cgi-bin/php [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m89ms - 7.9kb[0m
+[90mGET /cgi-bin/bash [33m404 [90m1ms[0m
+[90mGET /cgi-bin/contact.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/defaultwebpage.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/env.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/fire.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/forum.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/hello.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/index.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/login.cgi [33m404 [90m0ms[0m
+[90mGET /cgi-bin/main.cgi [33m404 [90m3ms[0m
+[90mGET /cgi-bin/meme.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php4 [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php5 [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php5-cli [33m404 [90m1ms[0m
+[90mGET /cgi-bin/recent.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/sat-ir-web.pl [33m404 [90m1ms[0m
+[90mGET /cgi-bin-sdb/printenv [33m404 [90m2ms[0m
+[90mGET /cgi-bin/test-cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/test.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/test-cgi.pl [33m404 [90m1ms[0m
+[90mGET /cgi-bin/test.sh [33m404 [90m2ms[0m
+[90mGET /cgi-bin/tools/tools.pl [33m404 [90m2ms[0m
+[90mGET /cgi-mod/index.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/defaultwebpage.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/entropysearch.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/php5 [33m404 [90m1ms[0m
+[90mGET /phppath/cgi_wrapper [33m404 [90m1ms[0m
+[90mGET /phppath/php [33m404 [90m2ms[0m
+[90mGET /cgi-bin/php [33m404 [90m25ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m181ms - 7.9kb[0m
+[90mGET /cgi-bin/bash [33m404 [90m1ms[0m
+[90mGET /cgi-bin/contact.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/defaultwebpage.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/env.cgi [33m404 [90m0ms[0m
+[90mGET /cgi-bin/fire.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/forum.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/hello.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/index.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/login.cgi [33m404 [90m4ms[0m
+[90mGET /cgi-bin/main.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/meme.cgi [33m404 [90m3ms[0m
+[90mGET /cgi-bin/php4 [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php5 [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php5-cli [33m404 [90m3ms[0m
+[90mGET /cgi-bin/recent.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/sat-ir-web.pl [33m404 [90m0ms[0m
+[90mGET /cgi-bin-sdb/printenv [33m404 [90m1ms[0m
+[90mGET /cgi-bin/test-cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/test.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/test-cgi.pl [33m404 [90m1ms[0m
+[90mGET /cgi-bin/test.sh [33m404 [90m1ms[0m
+[90mGET /cgi-bin/tools/tools.pl [33m404 [90m1ms[0m
+[90mGET /cgi-mod/index.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/defaultwebpage.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/entropysearch.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/php5 [33m404 [90m1ms[0m
+[90mGET /phppath/cgi_wrapper [33m404 [90m1ms[0m
+[90mGET /phppath/php [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php5-cli [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mHEAD / [32m200 [90m195ms - 7.9kb[0m
+[90mGET /cgi-bin/php [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m79ms - 7.9kb[0m
+[90mGET /cgi-bin/bash [33m404 [90m2ms[0m
+[90mGET /cgi-bin/contact.cgi [33m404 [90m13ms[0m
+[90mGET /cgi-bin/defaultwebpage.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/env.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/forum.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/hello.cgi [33m404 [90m3ms[0m
+[90mGET /cgi-bin/index.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/login.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/main.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php4 [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php5 [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php5-cli [33m404 [90m1ms[0m
+[90mGET /cgi-bin/recent.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/sat-ir-web.pl [33m404 [90m1ms[0m
+[90mGET /cgi-bin-sdb/printenv [33m404 [90m1ms[0m
+[90mGET /cgi-bin/test-cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/test.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/test-cgi.pl [33m404 [90m1ms[0m
+[90mGET /cgi-bin/tools/tools.pl [33m404 [90m1ms[0m
+[90mGET /cgi-mod/index.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/defaultwebpage.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/entropysearch.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/php5 [33m404 [90m3ms[0m
+[90mGET /phppath/cgi_wrapper [33m404 [90m1ms[0m
+[90mGET /phppath/php [33m404 [90m1ms[0m
+[90mGET /rom-0 [33m404 [90m1ms[0m
+[90mGET /querylist [36m304 [90m81ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://www.sciencedirect.com/ [32m200 [90m91ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mHEAD / [32m200 [90m86ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m83ms - 7.9kb[0m
+[90mGET /muieblackcat [33m404 [90m2ms[0m
+[90mGET //phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpmyadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //pma/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //myadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //MyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m82ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m83ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m110ms - 7.9kb[0m
+[90mGET /admin/bootstrap.inc.php?mgp=danc3Uf@t&c=whoami [33m404 [90m2ms[0m
+[90mGET /querylist [36m304 [90m30ms[0m
+[90mGET /querylist [36m304 [90m9ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mHEAD / [32m200 [90m102ms - 7.9kb[0m
+[90mGET /querylist [36m304 [90m8ms[0m
+[90mGET /querylist [36m304 [90m6ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [36m304 [90m105ms[0m
+[90mGET /stylesheets/bootstrap_overrides.css [36m304 [90m13ms[0m
+[90mGET /javascripts/global.js [36m304 [90m12ms[0m
+[90mGET /images/preloader.gif [32m200 [90m42ms - 3.13kb[0m
+info: SUCCESS 0: Sucessfully submitted query data
+[90mPOST /api/sendquerydata [32m200 [90m159ms - 430b[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [36m304 [90m87ms[0m
+[90mGET /stylesheets/bootstrap_overrides.css [36m304 [90m2ms[0m
+[90mGET /javascripts/global.js [36m304 [90m1ms[0m
+[90mGET /querylist [32m200 [90m8ms - 32.15kb[0m
+[90mGET /images/preloader.gif [36m304 [90m1ms[0m
+info: SUCCESS 0: Sucessfully submitted query data
+[90mPOST /api/sendquerydata [32m200 [90m10ms - 430b[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [36m304 [90m85ms[0m
+[90mGET /stylesheets/bootstrap_overrides.css [36m304 [90m23ms[0m
+[90mGET /javascripts/global.js [36m304 [90m2ms[0m
+[90mGET /querylist [32m200 [90m7ms - 32.42kb[0m
+[90mGET /querylist [32m200 [90m7ms - 32.38kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [36m304 [90m89ms[0m
+[90mGET /stylesheets/bootstrap_overrides.css [36m304 [90m2ms[0m
+[90mGET /javascripts/global.js [36m304 [90m1ms[0m
+[90mGET /images/preloader.gif [36m304 [90m1ms[0m
+info: SUCCESS 0: Sucessfully submitted query data
+[90mPOST /api/sendquerydata [32m200 [90m18ms - 430b[0m
+[90mGET /querylist [32m200 [90m11ms - 32.71kb[0m
+[90mGET /querylist [32m200 [90m28ms - 32.97kb[0m
+[90mGET /querylist [32m200 [90m11ms - 32.66kb[0m
+[90mGET /querylist [32m200 [90m11ms - 32.26kb[0m
+[90mGET /querylist [36m304 [90m10ms[0m
+[90mGET /querylist [32m200 [90m11ms - 31.07kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [36m304 [90m152ms[0m
+[90mGET /stylesheets/bootstrap_overrides.css [36m304 [90m2ms[0m
+[90mGET /javascripts/global.js [36m304 [90m2ms[0m
+[90mGET /images/preloader.gif [36m304 [90m2ms[0m
+info: SUCCESS 0: Sucessfully submitted query data
+[90mPOST /api/sendquerydata [32m200 [90m13ms - 430b[0m
+[90mGET /querylist [32m200 [90m8ms - 32.46kb[0m
+[90mGET /querylist [32m200 [90m7ms - 32.26kb[0m
+[90mGET /querylist [36m304 [90m7ms[0m
+[90mGET /querylist [32m200 [90m13ms - 32.64kb[0m
+[90mGET /querylist [36m304 [90m7ms[0m
+[90mGET /querylist [36m304 [90m6ms[0m
+[90mGET /querylist [32m200 [90m8ms - 33.01kb[0m
+[90mGET /querylist [32m200 [90m8ms - 33.27kb[0m
+[90mGET /querylist [36m304 [90m7ms[0m
+[90mGET /querylist [32m200 [90m7ms - 33.53kb[0m
+[90mGET /querylist [32m200 [90m25ms - 33.05kb[0m
+[90mGET /querylist [32m200 [90m39ms - 33.12kb[0m
+[90mGET /querylist [32m200 [90m6ms - 33.36kb[0m
+[90mGET /querylist [32m200 [90m6ms - 33.7kb[0m
+[90mGET /querylist [32m200 [90m8ms - 33.99kb[0m
+[90mGET /rom-0 [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m87ms - 7.9kb[0m
+[90mGET /querylist [32m200 [90m7ms - 37.29kb[0m
+[90mGET /querylist [36m304 [90m8ms[0m
+[90mGET /querylist [32m200 [90m40ms - 35.88kb[0m
+[90mGET /querylist [32m200 [90m6ms - 30.12kb[0m
+[90mGET /querylist [36m304 [90m5ms[0m
+[90mGET /querylist [32m200 [90m5ms - 30.11kb[0m
+[90mGET /querylist [32m200 [90m6ms - 30.37kb[0m
+[90mGET /querylist [36m304 [90m6ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m87ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m86ms - 7.9kb[0m
+[90mGET /robots.txt [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m128ms - 7.9kb[0m
+[90mPOST /cgi-bin/php?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%22%79%65%73%22+%2D%64+%63%67%69%2E%66%69%78%5F%70%61%74%68%69%6E%66%6F%3D%31+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%6E [33m404 [90m547ms[0m
+[90mPOST /cgi-bin/php5?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%22%79%65%73%22+%2D%64+%63%67%69%2E%66%69%78%5F%70%61%74%68%69%6E%66%6F%3D%31+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%6E [33m404 [90m303ms[0m
+[90mPOST /cgi-bin/php-cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%22%79%65%73%22+%2D%64+%63%67%69%2E%66%69%78%5F%70%61%74%68%69%6E%66%6F%3D%31+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%6E [33m404 [90m261ms[0m
+[90mPOST /cgi-bin/php5-cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%22%79%65%73%22+%2D%64+%63%67%69%2E%66%69%78%5F%70%61%74%68%69%6E%66%6F%3D%31+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%6E [33m404 [90m188ms[0m
+[90mPOST /cgi-bin/php-cgi.bin?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%22%79%65%73%22+%2D%64+%63%67%69%2E%66%69%78%5F%70%61%74%68%69%6E%66%6F%3D%31+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%6E [33m404 [90m204ms[0m
+[90mGET /muieblackcat [33m404 [90m2ms[0m
+[90mGET //phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpmyadmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //pma/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //myadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //MyAdmin/scripts/setup.php [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://24x7-allrequestsallowed.com/?PHPSESSID=a45ad01b00143PP%5BJWWHY%40%40%5EJFQ%5C [32m200 [90m82ms - 7.9kb[0m
+[90mPOST / [33m404 [90m412ms[0m
+[90mGET /querylist [36m304 [90m6ms[0m
+[90mGET /querylist [36m304 [90m18ms[0m
+[90mGET /querylist [36m304 [90m6ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m92ms - 7.9kb[0m
+[90mGET http://www.metapress.com/account [33m404 [90m1ms[0m
+[90mGET /muieblackcat [33m404 [90m2ms[0m
+[90mGET //phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpmyadmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //pma/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //myadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //MyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m87ms - 7.9kb[0m
+[90mGET /querylist [36m304 [90m6ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m86ms - 7.9kb[0m
+[90mGET /rom-0 [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m84ms - 7.9kb[0m
+[90mGET /querylist [36m304 [90m6ms[0m
+[90mGET /querylist [36m304 [90m6ms[0m
+[90mGET //myadmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //sql/phpmyadmin/scripts/setup.php [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m126ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://online.sagepub.com/ [32m200 [90m109ms - 7.9kb[0m
+[90mPOST /cgi-bin/php?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%22%79%65%73%22+%2D%64+%63%67%69%2E%66%69%78%5F%70%61%74%68%69%6E%66%6F%3D%31+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%6E [33m404 [90m405ms[0m
+[90mPOST /cgi-bin/php5?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%22%79%65%73%22+%2D%64+%63%67%69%2E%66%69%78%5F%70%61%74%68%69%6E%66%6F%3D%31+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%6E [33m404 [90m405ms[0m
+[90mPOST /cgi-bin/php-cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%22%79%65%73%22+%2D%64+%63%67%69%2E%66%69%78%5F%70%61%74%68%69%6E%66%6F%3D%31+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%6E [33m404 [90m376ms[0m
+[90mPOST /cgi-bin/php5-cgi?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%22%79%65%73%22+%2D%64+%63%67%69%2E%66%69%78%5F%70%61%74%68%69%6E%66%6F%3D%31+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%6E [33m404 [90m362ms[0m
+[90mPOST /cgi-bin/php-cgi.bin?%2D%64+%61%6C%6C%6F%77%5F%75%72%6C%5F%69%6E%63%6C%75%64%65%3D%6F%6E+%2D%64+%73%61%66%65%5F%6D%6F%64%65%3D%6F%66%66+%2D%64+%73%75%68%6F%73%69%6E%2E%73%69%6D%75%6C%61%74%69%6F%6E%3D%6F%6E+%2D%64+%64%69%73%61%62%6C%65%5F%66%75%6E%63%74%69%6F%6E%73%3D%22%22+%2D%64+%6F%70%65%6E%5F%62%61%73%65%64%69%72%3D%6E%6F%6E%65+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%63%67%69%2E%72%65%64%69%72%65%63%74%5F%73%74%61%74%75%73%5F%65%6E%76%3D%22%79%65%73%22+%2D%64+%63%67%69%2E%66%69%78%5F%70%61%74%68%69%6E%66%6F%3D%31+%2D%64+%61%75%74%6F%5F%70%72%65%70%65%6E%64%5F%66%69%6C%65%3D%70%68%70%3A%2F%2F%69%6E%70%75%74+%2D%6E [33m404 [90m380ms[0m
+[90mGET /manager/html [33m404 [90m3ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m91ms - 7.9kb[0m
+[90mGET http://cachefly.cachefly.net/networkmap/index.html [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m87ms - 7.9kb[0m
+[90mGET http://www.sciencedirect.com/science/jrnlallbooks/a/fulltext [33m404 [90m2ms[0m
+[90mGET /admin/i18n/readme.txt [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://www.w3.org/ [32m200 [90m86ms - 7.9kb[0m
+[90mGET http://testp3.pospr.waw.pl/testproxy.php [33m404 [90m1ms[0m
+[90mGET /tmUnblock.cgi [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m84ms - 7.9kb[0m
+[90mGET http://cachefly.cachefly.net/networkmap/index.html [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m110ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m171ms - 7.9kb[0m
+[90mGET /CFIDE/administrator/ [33m404 [90m2ms[0m
+[90mGET http://www.sciencedirect.com/science/jrnlallbooks/a/fulltext [33m404 [90m2ms[0m
+[90mGET http://www.sciencedirect.com/science/jrnlallbooks/a/fulltext [33m404 [90m2ms[0m
+[90mGET /admin/bootstrap.inc.php?mgp=danc3Uf@t&c=whoami [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m91ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m91ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m89ms - 7.9kb[0m
+[90mGET /robots.txt [33m404 [90m2ms[0m
+[90mGET /tmUnblock.cgi [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m105ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://24x7-allrequestsallowed.com/?PHPSESSID=a45ad01b00143PP%5BJWWHY%40%40%5EJFQ%5C [32m200 [90m93ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m91ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mHEAD / [32m200 [90m114ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m140ms - 7.9kb[0m
+[90mGET /admin.cgi [33m404 [90m2ms[0m
+[90mGET /administrator.cgi [33m404 [90m1ms[0m
+[90mGET /agora.cgi [33m404 [90m2ms[0m
+[90mGET /aktivate/cgi-bin/catgy.cgi [33m404 [90m1ms[0m
+[90mGET /analyse.cgi [33m404 [90m1ms[0m
+[90mGET /apps/web/vs_diag.cgi [33m404 [90m1ms[0m
+[90mGET /axis-cgi/buffer/command.cgi [33m404 [90m2ms[0m
+[90mGET /b2-include/b2edit.showposts.php [33m404 [90m2ms[0m
+[90mGET /bandwidth/index.cgi [33m404 [90m1ms[0m
+[90mGET /bigconf.cgi [33m404 [90m1ms[0m
+[90mGET /cartcart.cgi [33m404 [90m1ms[0m
+[90mGET /cart.cgi [33m404 [90m1ms[0m
+[90mGET /catalog/index.cgi [33m404 [90m1ms[0m
+[90mGET /ccbill/whereami.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/ [33m404 [90m1ms[0m
+[90mGET /cgi-bin/14all-1.1.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/14all.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/%2f/admin.html [33m404 [90m1ms[0m
+[90mGET /cgi-bin/a1disp3.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/a1stats/a1disp3.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/a1stats/a1disp4.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/addbanner.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/add_ftp.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/adduser.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/admin/admin.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/admin.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/adminhot.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/admin.html [33m404 [90m1ms[0m
+[90mGET /cgi-bin/admin.pl [33m404 [90m1ms[0m
+[90mGET /cgi-bin/admin/setup.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/adminwww.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/af.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/aglimpse.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/alienform.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/AnyBoard.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/architext_query.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/astrocam.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/AT-admin.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/AT-generate.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/auction/auction.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/auktion.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/authLogin.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/ax-admin.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/ax.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/axs.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/badmin.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/banner.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/bannereditor.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/bash [33m404 [90m1ms[0m
+[90mGET /cgi-bin/bb-ack.sh [33m404 [90m1ms[0m
+[90mGET /cgi-bin/bb-histlog.sh [33m404 [90m1ms[0m
+[90mGET /cgi-bin/bb-hist.sh [33m404 [90m1ms[0m
+[90mGET /cgi-bin/bb-hostsvc.sh [33m404 [90m1ms[0m
+[90mGET /cgi-bin/bb-replog.sh [33m404 [90m1ms[0m
+[90mGET /cgi-bin/bb-rep.sh [33m404 [90m1ms[0m
+[90mGET /cgi-bin/BBS/bbs_forum.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/bbs_forum.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/bigconf.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/bizdb1-search.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/blog/mt-check.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/blog/mt-load.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/bnbform.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/book.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/boozt/admin/index.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/bsguest.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/bslist.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/build.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/bulk/bulk.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/cached_feed.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/cachemgr.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/calendar/index.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/cartmanager.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/cbmc/forums.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/ccvsblame.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/c_download.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/cgforum.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/cgi.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/cgi_process [33m404 [90m1ms[0m
+[90mGET /cgi-bin/classified.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/classifieds.cgi [33m404 [90m0ms[0m
+[90mGET /cgi-bin/classifieds/classifieds.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/classifieds/index.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/.cobalt/alert/service.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/.cobalt/message/message.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/.cobalt/siteUserMod/siteUserMod.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/commandit.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/commerce.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/common/listrec.pl [33m404 [90m1ms[0m
+[90mGET /cgi-bin/compatible.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/contact.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/Count.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/csChatRBox.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/csGuestBook.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/csLiveSupport.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/CSMailto.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/CSMailto/CSMailto.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/csNews.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/csNewsPro.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/csPassword.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/csPassword/csPassword.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/csSearch.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/csv_db.cgi [33m404 [90m0ms[0m
+[90mGET /cgi-bin/cvsblame.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/cvslog.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/cvsquery.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/cvsqueryform.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/day5datacopier.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/day5datanotifier.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/db_manager.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/dbman/db.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/dcforum.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/defaultwebpage.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/dfire.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/directorypro.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/download.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/emumail.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/emumail/emumail.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/env.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/environ.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/ezadmin.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/ezboard.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/ezshopper2/loadpage.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/ezshopper3/loadpage.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/ezshopper/loadpage.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/ezshopper/search.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/faqmanager.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/FileSeek2.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/flexform.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/fom.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/fom/fom.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/FormHandler.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/FormMail.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/forum.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/gbadmin.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/gbook/gbook.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/generate.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/gH.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/guestbook.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/handler [33m404 [90m1ms[0m
+[90mGET /cgi-bin/hello [33m404 [90m2ms[0m
+[90mGET /cgi-bin/hello.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/helpme [33m404 [90m2ms[0m
+[90mGET /cgi-bin/hitview.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/hsx.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/html2wml.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/htsearch.cgi [33m404 [90m18ms[0m
+[90mGET /cgi-bin/icat [33m404 [90m1ms[0m
+[90mGET /cgi-bin/ICuGI/EST/blast_detail.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/if/admin/nph-build.cgi [33m404 [90m0ms[0m
+[90mGET /cgi-bin/ikonboard/help.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/ImageFolio/admin/admin.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/imageFolio.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/index.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/info.sh [33m404 [90m1ms[0m
+[90mGET /cgi-bin/infosrch.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/jammail.pl [33m404 [90m1ms[0m
+[90mGET /cgi-bin/loadpage.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/login.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/logit.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/lwgate.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/MachineInfo [33m404 [90m1ms[0m
+[90mGET /cgi-bin/magiccard.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/mail/emumail.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/maillist.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/mailnews.cgi [33m404 [90m0ms[0m
+[90mGET /cgi-bin/mail/nph-mr.cgi [33m404 [90m0ms[0m
+[90mGET /cgi-bin/main.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/main_menu.pl [33m404 [90m1ms[0m
+[90mGET /cgi-bin/man.sh [33m404 [90m1ms[0m
+[90mGET /cgi-bin/meme.cgi [33m404 [90m0ms[0m
+[90mGET /cgi-bin/mini_logger.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/mmstdod.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/moin.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/mojo/mojo.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/mrtg.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/mt/mt-check.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/mt/mt-load.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/mt-static/mt-check.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/mt-static/mt-load.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/musicqueue.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/myguestbook.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/.namazu.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/netauth.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/netpad.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/newsdesk.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/nlog-smb.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/nph-emumail.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/nph-exploitscanget.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/nph-publish.cgi [33m404 [90m0ms[0m
+[90mGET /cgi-bin/nph-test.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/pagelog.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/pbcgi.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/perlshop.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/pfdispaly.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/pfdisplay.cgi [33m404 [90m0ms[0m
+[90mGET /cgi-bin/phf.cgi [33m404 [90m0ms[0m
+[90mGET /cgi-bin/photo/manage.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/photo/protected/manage.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php4 [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php4.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php5.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php5 [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php5? [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php5-cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php-cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/php-cgi.bin [33m404 [90m1ms[0m
+[90mGET /cgi-bin/pollit/Poll_It_SSI_v2.0.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/pollssi.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/postcards.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/powerup/r.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/printenv [33m404 [90m1ms[0m
+[90mGET /cgi-bin/probecontrol.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/profile.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/publisher/search.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/quickstore.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/quizme.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/ratlog.cgi [33m404 [90m0ms[0m
+[90mGET /cgi-bin/r.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/recent.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/register.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/replicator/webpage.cgi/ [33m404 [90m1ms[0m
+[90mGET /cgi-bin/responder.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/robadmin.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/robpoll.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/sat-ir-web.pl [33m404 [90m1ms[0m
+[90mGET /cgi-bin/sbcgi/sitebuilder.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/scoadminreg.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin-sdb/printenv [33m404 [90m1ms[0m
+[90mGET /cgi-bin/search [33m404 [90m1ms[0m
+[90mGET /cgi-bin/search.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/search/search.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/sendform.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/shop.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/shopper.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/shopplus.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/showcheckins.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/signon.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/simplestguest.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/simplestmail.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/smartsearch.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/smartsearch/smartsearch.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/snorkerz.bat [33m404 [90m1ms[0m
+[90mGET /cgi-bin/snorkerz.cmd [33m404 [90m1ms[0m
+[90mGET /cgi-bin/sojourn.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/spin_client.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/start.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/status [33m404 [90m1ms[0m
+[90mGET /cgi-bin/status/status.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/store/agora.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/store.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/store/index.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/survey.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/talkback.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/technote/main.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/test2.pl [33m404 [90m1ms[0m
+[90mGET /cgi-bin/test-cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/test.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/test-cgi.pl [33m404 [90m1ms[0m
+[90mGET /cgi-bin/testing_whatever [33m404 [90m1ms[0m
+[90mGET /cgi-bin/test.sh [33m404 [90m1ms[0m
+[90mGET /cgi-bin/test/test.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/tidfinder.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/tigvote.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/title.cgi [33m404 [90m0ms[0m
+[90mGET /cgi-bin/tools/tools.pl [33m404 [90m1ms[0m
+[90mGET /cgi-bin/traffic.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/tree.php [33m404 [90m2ms[0m
+[90mGET /cgi-bin/troops.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/ttawebtop.cgi/ [33m404 [90m1ms[0m
+[90mGET /cgi-bin/ultraboard.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/upload.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/urlcount.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/viewcvs.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/viralator.cgi [33m404 [90m0ms[0m
+[90mGET /cgi-bin/virgil.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/vote.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/vpasswd.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/w3mman2html.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/way-board.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/way-board/way-board.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/webbbs.cgi [33m404 [90m0ms[0m
+[90mGET /cgi-bin/webcart/webcart.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/webdist.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/webif.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/webmail/html/emumail.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/webmap.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/webspirs.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/whois.cgi [33m404 [90m0ms[0m
+[90mGET /cgi-bin/whois_raw.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/whois/whois.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/wrap [33m404 [90m1ms[0m
+[90mGET /cgi-bin/wrap.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/wwwboard.cgi.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/YaBB/YaBB.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/zml.cgi [33m404 [90m4ms[0m
+[90mGET /cgi-mod/index.cgi [33m404 [90m1ms[0m
+[90mGET /cgistart [33m404 [90m0ms[0m
+[90mGET /cgis/wwwboard/wwwboard.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-sys/addalink.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/defaultwebpage.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/domainredirect.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/entropybanner.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/entropysearch.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/FormMail-clone.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/guestbook.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/helpdesk.cgi [33m404 [90m0ms[0m
+[90mGET /cgi-sys/mchat.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/php5? [33m404 [90m0ms[0m
+[90mGET /cgi-sys/randhtml.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/realhelpdesk.cgi [33m404 [90m0ms[0m
+[90mGET /cgi-sys/realsignup.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/signup.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-sys/suspendedpage.cgi [33m404 [90m1ms[0m
+[90mGET /connector.cgi [33m404 [90m1ms[0m
+[90mGET /cp/rac/nsManager.cgi [33m404 [90m1ms[0m
+[90mGET /create_release.sh [33m404 [90m1ms[0m
+[90mGET /CSNews.cgi [33m404 [90m1ms[0m
+[90mGET /csPassword.cgi [33m404 [90m1ms[0m
+[90mGET /dana-na/auth/url_default/welcome.cgi [33m404 [90m0ms[0m
+[90mGET /dcadmin.cgi [33m404 [90m1ms[0m
+[90mGET /dcboard.cgi [33m404 [90m1ms[0m
+[90mGET /dcforum.cgi [33m404 [90m1ms[0m
+[90mGET /dcforum/dcforum.cgi [33m404 [90m1ms[0m
+[90mGET /debug.cgi [33m404 [90m1ms[0m
+[90mGET /details.cgi [33m404 [90m1ms[0m
+[90mGET /download.cgi [33m404 [90m1ms[0m
+[90mGET /edittag/edittag.cgi [33m404 [90m1ms[0m
+[90mGET /emumail.cgi [33m404 [90m19ms[0m
+[90mGET /enter_bug.cgi [33m404 [90m1ms[0m
+[90mGET /ez2000/ezadmin.cgi [33m404 [90m1ms[0m
+[90mGET /ez2000/ezboard.cgi [33m404 [90m1ms[0m
+[90mGET /ez2000/ezman.cgi [33m404 [90m1ms[0m
+[90mGET /fcgi-bin/echo [33m404 [90m1ms[0m
+[90mGET /fcgi-bin/echo2 [33m404 [90m1ms[0m
+[90mGET /gitweb/ [33m404 [90m1ms[0m
+[90mGET /gitweb.cgi [33m404 [90m1ms[0m
+[90mGET /gitweb/gitweb.cgi [33m404 [90m1ms[0m
+[90mGET /Gozila.cgi [33m404 [90m0ms[0m
+[90mGET /hitmatic/analyse.cgi [33m404 [90m1ms[0m
+[90mGET /hndUnblock.cgi [33m404 [90m1ms[0m
+[90mGET /html/cgi-bin/cgicso [33m404 [90m1ms[0m
+[90mGET /index.cgi [33m404 [90m1ms[0m
+[90mGET /info.cgi [33m404 [90m1ms[0m
+[90mGET /infosrch.cgi [33m404 [90m1ms[0m
+[90mGET /left.cgi [33m404 [90m1ms[0m
+[90mGET /login.cgi [33m404 [90m1ms[0m
+[90mGET /mailview.cgi [33m404 [90m2ms[0m
+[90mGET /main.cgi [33m404 [90m1ms[0m
+[90mGET /megabook/admin.cgi [33m404 [90m1ms[0m
+[90mGET /ministats/admin.cgi [33m404 [90m0ms[0m
+[90mGET /mods/apage/apage.cgi [33m404 [90m1ms[0m
+[90mGET /_mt/mt.cgi [33m404 [90m1ms[0m
+[90mGET /musicqueue.cgi [33m404 [90m1ms[0m
+[90mGET /ncbook.cgi [33m404 [90m1ms[0m
+[90mGET /newpro.cgi [33m404 [90m1ms[0m
+[90mGET /newsletter.sh [33m404 [90m1ms[0m
+[90mGET /oem_webstage/cgi-bin/oemapp_cgi [33m404 [90m1ms[0m
+[90mGET /page.cgi [33m404 [90m1ms[0m
+[90mGET /parse_xml.cgi [33m404 [90m1ms[0m
+[90mGET /photodata/manage.cgi [33m404 [90m1ms[0m
+[90mGET /photo/manage.cgi [33m404 [90m0ms[0m
+[90mGET /phppath/cgi_wrapper [33m404 [90m1ms[0m
+[90mGET /phppath/cgi_wrapper? [33m404 [90m1ms[0m
+[90mGET /phppath/php [33m404 [90m1ms[0m
+[90mGET /phppath/php? [33m404 [90m2ms[0m
+[90mGET /print.cgi [33m404 [90m1ms[0m
+[90mGET /process_bug.cgi [33m404 [90m1ms[0m
+[90mGET /pub/english.cgi [33m404 [90m1ms[0m
+[90mGET /quikmail/nph-emumail.cgi [33m404 [90m1ms[0m
+[90mGET /quikstore.cgi [33m404 [90m1ms[0m
+[90mGET /redirects/redir.cgi [33m404 [90m1ms[0m
+[90mGET /reviews/newpro.cgi [33m404 [90m1ms[0m
+[90mGET /ROADS/cgi-bin/search.pl [33m404 [90m1ms[0m
+[90mGET /sample01.cgi [33m404 [90m1ms[0m
+[90mGET /sample02.cgi [33m404 [90m1ms[0m
+[90mGET /sample03.cgi [33m404 [90m1ms[0m
+[90mGET /sample04.cgi [33m404 [90m1ms[0m
+[90mGET /sampleposteddata.cgi [33m404 [90m1ms[0m
+[90mGET /scancfg.cgi [33m404 [90m1ms[0m
+[90mGET /servers/link.cgi [33m404 [90m1ms[0m
+[90mGET /setpasswd.cgi [33m404 [90m21ms[0m
+[90mGET /SetSecurity.shm [33m404 [90m5ms[0m
+[90mGET /shop/member_html.cgi [33m404 [90m4ms[0m
+[90mGET /shop/normal_html.cgi [33m404 [90m1ms[0m
+[90mGET /site_searcher.cgi [33m404 [90m1ms[0m
+[90mGET /siteUserMod.cgi [33m404 [90m1ms[0m
+[90mGET /submit.cgi [33m404 [90m1ms[0m
+[90mGET /sys-cgi [33m404 [90m2ms[0m
+[90mGET /technote/print.cgi [33m404 [90m1ms[0m
+[90mGET /template.cgi [33m404 [90m1ms[0m
+[90mGET /test.cgi [33m404 [90m1ms[0m
+[90mGET /tmUnblock.cgi [33m404 [90m1ms[0m
+[90mGET /upload.cgi [33m404 [90m1ms[0m
+[90mGET /userreg.cgi [33m404 [90m2ms[0m
+[90mGET /users/scripts/submit.cgi [33m404 [90m1ms[0m
+[90mGET /Web_Store/web_store.cgi [33m404 [90m1ms[0m
+[90mGET /webtools/bonsai/ccvsblame.cgi [33m404 [90m1ms[0m
+[90mGET /webtools/bonsai/cvsblame.cgi [33m404 [90m1ms[0m
+[90mGET /webtools/bonsai/cvslog.cgi [33m404 [90m1ms[0m
+[90mGET /webtools/bonsai/cvsquery.cgi [33m404 [90m1ms[0m
+[90mGET /webtools/bonsai/cvsqueryform.cgi [33m404 [90m0ms[0m
+[90mGET /webtools/bonsai/showcheckins.cgi [33m404 [90m1ms[0m
+[90mGET /wwwadmin.cgi [33m404 [90m1ms[0m
+[90mGET /wwwboard.cgi [33m404 [90m1ms[0m
+[90mGET /wwwboard/wwwboard.cgi [33m404 [90m18ms[0m
+[90mGET /xul/ [33m404 [90m1ms[0m
+[90mGET /admin/basic [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m115ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m174ms - 7.9kb[0m
+[90mGET /muieblackcat [33m404 [90m2ms[0m
+[90mGET //phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpmyadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //pma/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //myadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //MyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mHEAD / [32m200 [90m94ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m87ms - 7.9kb[0m
+[90mGET /robots.txt [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m84ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m84ms - 7.9kb[0m
+[90mGET /robots.txt [33m404 [90m2ms[0m
+[90mOPTIONS / [32m200 [90m2ms - 3b[0m
+[90mGET /moadmin.php [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m85ms - 7.9kb[0m
+[90mPOST / [33m404 [90m265ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m113ms - 7.9kb[0m
+[90mGET /rom-0 [33m404 [90m1ms[0m
+[90mGET http://cachefly.cachefly.net/networkmap/index.html [33m404 [90m2ms[0m
+[90mGET http://cachefly.cachefly.net/networkmap/index.html [33m404 [90m1ms[0m
+[90mGET http://www.sciencedirect.com/science/book/9780123525512 [33m404 [90m1ms[0m
+[90mGET http://www.sciencedirect.com/science/book/9780123525512 [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://www.google.com/ [32m200 [90m120ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mHEAD / [32m200 [90m97ms - 7.9kb[0m
+[90mGET /w00tw00t.at.blackhats.romanian.anti-sec:) [33m404 [90m2ms[0m
+[90mGET /phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /phpmyadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /pma/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /myadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /MyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://www.w3.org/ [32m200 [90m108ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m92ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m88ms - 7.9kb[0m
+[90mGET /phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /pma/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET /myadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET http://cachefly.cachefly.net/networkmap/index.html [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://24x7-allrequestsallowed.com/?PHPSESSID=a45ad01b00143PP%5BJWWHY%40%40%5EJFQ%5C [32m200 [90m87ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m111ms - 7.9kb[0m
+[90mGET /robots.txt [33m404 [90m2ms[0m
+[90mGET /phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /pma/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /myadmin/scripts/setup.php [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m127ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m127ms - 7.9kb[0m
+[90mGET /robots.txt [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://link.springer.com/ [32m200 [90m94ms - 7.9kb[0m
+[90mGET /caca2.txt [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m93ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m89ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m105ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m150ms - 7.9kb[0m
+[90mGET /muieblackcat [33m404 [90m2ms[0m
+[90mGET //phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpmyadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //pma/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //myadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //MyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m93ms - 7.9kb[0m
+[90mGET http://testp3.pospr.waw.pl/testproxy.php [33m404 [90m2ms[0m
+[90mGET /cgi-bin/rtpd.cgi [33m404 [90m1ms[0m
+[90mGET /cgi-bin/rtpd.cgi [33m404 [90m1ms[0m
+[90mGET http://cachefly.cachefly.net/networkmap/index.html [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mHEAD / [32m200 [90m89ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m85ms - 7.9kb[0m
+[90mPOST /login.action [33m404 [90m348ms[0m
+[90mGET /manager/html [33m404 [90m2ms[0m
+[90mGET http://www.sciencedirect.com/science/jrnlallbooks/a/fulltext [33m404 [90m1ms[0m
+[90mGET /muieblackcat [33m404 [90m2ms[0m
+[90mGET //phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpmyadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //pma/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //myadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //MyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mHEAD / [32m200 [90m85ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://24x7-allrequestsallowed.com/?PHPSESSID=a45ad01b00143PP%5BJWWHY%40%40%5EJFQ%5C [32m200 [90m84ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m112ms - 7.9kb[0m
+[90mGET /phpMyAdmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET /pma/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET /myadmin/scripts/setup.php [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mHEAD / [32m200 [90m108ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m91ms - 7.9kb[0m
+[90mGET /robots.txt [33m404 [90m1ms[0m
+[90mGET /includes/templates/error.tpl [33m404 [90m1ms[0m
+[90mGET /tmUnblock.cgi [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m103ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m93ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m92ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mHEAD / [32m200 [90m88ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mHEAD / [32m200 [90m110ms - 7.9kb[0m
+[90mGET /phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /pma/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /myadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /phpmyadmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET /CFIDE/administrator/ [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mHEAD / [32m200 [90m136ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m84ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m92ms - 7.9kb[0m
+[90mGET /tmUnblock.cgi [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m93ms - 7.9kb[0m
+[90mGET /muieblackcat [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpmyadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //pma/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //myadmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //MyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mHEAD / [32m200 [90m95ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m110ms - 7.9kb[0m
+[90mGET http://cachefly.cachefly.net/networkmap/index.html [33m404 [90m1ms[0m
+[90mGET /roundcubemail/README [33m404 [90m1ms[0m
+[90mGET /rc/README [33m404 [90m1ms[0m
+[90mGET /webmail/README [33m404 [90m1ms[0m
+[90mGET /roundcube/README [33m404 [90m1ms[0m
+[90mGET /mail/README [33m404 [90m2ms[0m
+[90mGET /README [33m404 [90m1ms[0m
+[90mGET http://cachefly.cachefly.net/networkmap/index.html [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://www.w3.org/ [32m200 [90m162ms - 7.9kb[0m
+[90mGET /rom-0 [33m404 [90m2ms[0m
+[90mGET /phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /pma/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /myadmin/scripts/setup.php [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m92ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mHEAD / [32m200 [90m90ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m86ms - 7.9kb[0m
+[90mGET /cgi-bin/rtpd.cgi [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://link.springer.com/ [32m200 [90m85ms - 7.9kb[0m
+[90mGET /muieblackcat [33m404 [90m2ms[0m
+[90mGET //phpmyadmin/scripts/setup.php [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://www.w3.org/ [32m200 [90m85ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m86ms - 7.9kb[0m
+[90mGET /phpmyadmin/scripts/setup.php [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mHEAD / [32m200 [90m86ms - 7.9kb[0m
+[90mGET /Ringing.at.your.dorbell! [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m112ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m112ms - 7.9kb[0m
+[90mGET /Diagnostics.asp [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m91ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m91ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m105ms - 7.9kb[0m
+[90mGET /CFIDE/administrator/ [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m92ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://24x7-allrequestsallowed.com/?PHPSESSID=a45ad01b00143PP%5BJWWHY%40%40%5EJFQ%5C [32m200 [90m87ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m108ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m131ms - 7.9kb[0m
+[90mGET /manager/html [33m404 [90m2ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m2ms[0m
+[90mGET /manager/html [33m404 [90m2ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m2ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /pma/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /myadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /Panel/includes/templates/error.tpl [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://onlinelibrary.wiley.com/ [32m200 [90m91ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://onlinelibrary.wiley.com/ [32m200 [90m89ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m103ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m91ms - 7.9kb[0m
+[90mGET /tmUnblock.cgi [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m90ms - 7.9kb[0m
+[90mGET /rom-0 [33m404 [90m1ms[0m
+[90mGET /admin/bootstrap.inc.php?mgp=danc3Uf@t&c=whoami [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mHEAD / [32m200 [90m86ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m109ms - 7.9kb[0m
+[90mGET /robots.txt [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m129ms - 7.9kb[0m
+[90mGET /phpMyAdmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET /pma/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /myadmin/scripts/setup.php [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://onlinelibrary.wiley.com/ [32m200 [90m84ms - 7.9kb[0m
+[90mGET http://cachefly.cachefly.net/networkmap/index.html [33m404 [90m1ms[0m
+[90mGET http://cachefly.cachefly.net/networkmap/index.html [33m404 [90m1ms[0m
+[90mGET /pony/includes/templates/error.tpl [33m404 [90m1ms[0m
+[90mGET /phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /pma/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /myadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /muieblackcat [33m404 [90m1ms[0m
+[90mGET //myadmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //MyAdmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET /phph/php/ph.php [33m404 [90m1ms[0m
+[90mGET /phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /pma/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /myadmin/scripts/setup.php [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m91ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mHEAD / [32m200 [90m95ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://www.baidu.com/ [32m200 [90m89ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m111ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://www.wikimedia.org/ [32m200 [90m166ms - 7.9kb[0m
+[90mGET /phpMyAdmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET /pma/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /myadmin/scripts/setup.php [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m92ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://24x7-allrequestsallowed.com/?PHPSESSID=a45ad01b00143PP%5BJWWHY%40%40%5EJFQ%5C [32m200 [90m90ms - 7.9kb[0m
+[90mGET /phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /pma/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /myadmin/scripts/setup.php [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m85ms - 7.9kb[0m
+[90mGET http://cachefly.cachefly.net/networkmap/index.html [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mHEAD / [32m200 [90m85ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m85ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m84ms - 7.9kb[0m
+[90mGET /phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /pma/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /myadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET http://www.sciencedirect.com/science/journal/00404020/51 [33m404 [90m1ms[0m
+[90mGET http://www.sciencedirect.com/science/journal/00404020/51 [33m404 [90m1ms[0m
+[90mPOST / [33m404 [90m364ms[0m
+[90mGET /forum/includes/templates/error.tpl [33m404 [90m1ms[0m
+[90mGET /w00tw00t.at.ISC.SANS.Win32:) [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://www.google.com/ [32m200 [90m93ms - 7.9kb[0m
+[90mGET /muieblackcat [33m404 [90m2ms[0m
+[90mGET //scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //admin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //admin/pma/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //admin/phpmyadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //db/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //dbadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //myadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //mysql/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //mysqladmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //typo3/phpmyadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpmyadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpmyadmin1/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpmyadmin2/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //pma/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //web/phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //xampp/phpmyadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //web/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //php-my-admin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //websql/scripts/setup.php [33m404 [90m3ms[0m
+[90mGET //phpmyadmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //php-my-admin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.2.3/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.2.6/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.5.1/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.5.4/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.5.5-rc1/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.5.5-rc2/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //phpMyAdmin-2.5.5/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.5.5-pl1/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.5.6-rc1/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.5.6-rc2/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.5.6/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.5.7/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.5.7-pl1/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.6.0-alpha/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.6.0-alpha2/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.6.0-beta1/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.6.0-beta2/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.6.0-rc1/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.6.0-rc2/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //phpMyAdmin-2.6.0-rc3/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //phpMyAdmin-2.6.0/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.6.0-pl1/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.6.0-pl2/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.6.0-pl3/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //phpMyAdmin-2.6.1-rc1/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.6.1-rc2/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //phpMyAdmin-2.6.1/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.6.1-pl1/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.6.1-pl2/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //phpMyAdmin-2.6.1-pl3/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.6.2-rc1/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.6.2-beta1/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //phpMyAdmin-2.6.2-rc1/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.6.2/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //phpMyAdmin-2.6.2-pl1/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.6.3/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.6.3-rc1/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //phpMyAdmin-2.6.3/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.6.3-pl1/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.6.4-rc1/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.6.4-pl1/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //phpMyAdmin-2.6.4-pl2/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //phpMyAdmin-2.6.4-pl3/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //phpMyAdmin-2.6.4-pl4/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.6.4/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.7.0-beta1/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.7.0-rc1/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //phpMyAdmin-2.7.0-pl1/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //phpMyAdmin-2.7.0-pl2/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.7.0/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.8.0-beta1/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.8.0-rc1/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.8.0-rc2/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //phpMyAdmin-2.8.0/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.8.0.1/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.8.0.2/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.8.0.3/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.8.0.4/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.8.1-rc1/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.8.1/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin-2.8.2/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //sqlmanager/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //mysqlmanager/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //p/m/a/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //PMA2005/scripts/setup.php [33m404 [90m23ms[0m
+[90mGET //pma2005/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpmanager/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //php-myadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpmy-admin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //webadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //sqlweb/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //websql/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //webdb/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //mysqladmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //mysql-admin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //databaseadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //admm/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //admn/scripts/setup.php [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mHEAD / [32m200 [90m144ms - 7.9kb[0m
+[90mHEAD /selfupdate/wuident.cab [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m98ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://Qualys.null/ [32m200 [90m88ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m84ms - 7.9kb[0m
+[90mGET /phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /pma/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /myadmin/scripts/setup.php [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m84ms - 7.9kb[0m
+[90mGET /Ringing.at.your.dorbell! [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m83ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m116ms - 7.9kb[0m
+[90mGET /Diagnostics.asp [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m113ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m94ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m91ms - 7.9kb[0m
+[90mGET /rom-0 [33m404 [90m2ms[0m
+[90mGET /phpMyAdmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET /pma/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /myadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /pma/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /myadmin/scripts/setup.php [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://www.google.com/ [32m200 [90m92ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://www.google.com/ [32m200 [90m91ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://www.google.com/ [32m200 [90m87ms - 7.9kb[0m
+[90mGET /phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /pma/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /myadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /Ringing.at.your.dorbell! [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m179ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m128ms - 7.9kb[0m
+[90mGET /Diagnostics.asp [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m83ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m92ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m93ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m90ms - 7.9kb[0m
+[90mGET /Ringing.at.your.dorbell! [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m104ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m151ms - 7.9kb[0m
+[90mGET /Diagnostics.asp [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m97ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m88ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m85ms - 7.9kb[0m
+[90mGET /ponyd/includes/templates/error.tpl [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m84ms - 7.9kb[0m
+[90mHEAD /robots.txt [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://www.google.com/ [32m200 [90m84ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m85ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m112ms - 7.9kb[0m
+[90mGET /stylesheets/bootstrap_overrides.css [32m200 [90m25ms - 2.2kb[0m
+[90mGET /javascripts/global.js [32m200 [90m13ms - 9.83kb[0m
+[90mGET /phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /pma/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /myadmin/scripts/setup.php [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [36m304 [90m109ms[0m
+[90mGET /stylesheets/bootstrap_overrides.css [36m304 [90m2ms[0m
+[90mGET /muieblackcat [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpmyadmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //pma/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //myadmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //MyAdmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://www.google.com/ [32m200 [90m91ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m110ms - 7.9kb[0m
+[90mGET /muieblackcat [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpmyadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //pma/scripts/setup.php [33m404 [90m0ms[0m
+[90mGET //myadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //MyAdmin/scripts/setup.php [33m404 [90m0ms[0m
+[90mGET /rom-0 [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m95ms - 7.9kb[0m
+[90mGET /vtigercrm/test/upload/vtigercrm.txt [33m404 [90m1ms[0m
+[90mGET /phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /pma/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /myadmin/scripts/setup.php [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m88ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m86ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://24x7-allrequestsallowed.com/?PHPSESSID=a45ad01b00143PP%5BJWWHY%40%40%5EJFQ%5C [32m200 [90m111ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://www.google.com/ [32m200 [90m132ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mHEAD / [32m200 [90m84ms - 7.9kb[0m
+[90mGET /phpmyadmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET /phpmyadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpmyadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //myadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m93ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mHEAD / [32m200 [90m95ms - 7.9kb[0m
+[90mGET /user/soapCaller.bs [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m89ms - 7.9kb[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m109ms - 7.9kb[0m
+[90mGET /muieblackcat [33m404 [90m2ms[0m
+[90mGET //phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpmyadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //pma/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //myadmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //MyAdmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //db/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //admin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //admin/pma/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //admin/phpmyadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //php-my-admin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //mysql/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //mysqladmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpmyadmin1/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //web/phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //xampp/phpmyadmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //web/phpMyAdmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //phpMyAdmin-2/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /vtigercrm/test/upload/vtigercrm.txt [33m404 [90m1ms[0m
+[90mGET /vtigercrm/test/upload/vtigercrm.txt [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m150ms - 7.9kb[0m
+[90mGET /stylesheets/bootstrap_overrides.css [32m200 [90m2ms - 2.2kb[0m
+[90mGET /javascripts/global.js [32m200 [90m2ms - 9.83kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [36m304 [90m93ms[0m
+[90mGET /stylesheets/bootstrap_overrides.css [36m304 [90m2ms[0m
+[90mGET /javascripts/global.js [36m304 [90m1ms[0m
+[90mGET /querylist [32m200 [90m6ms - 30.37kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m86ms - 7.9kb[0m
+[90mGET /querylist [32m200 [90m7ms - 29.88kb[0m
+[90mGET /querylist [32m200 [90m7ms - 30.37kb[0m
+[90mGET /querylist [36m304 [90m18ms[0m
+[90mGET /querylist [32m200 [90m6ms - 30.37kb[0m
+[90mGET /querylist [32m200 [90m6ms - 30.23kb[0m
+[90mGET /querylist [36m304 [90m6ms[0m
+[90mGET /querylist [32m200 [90m6ms - 36.87kb[0m
+[90mGET /w19218317418621031041543/style.css [33m404 [90m1ms[0m
+[90mGET /querylist [36m304 [90m25ms[0m
+[90mGET /querylist [36m304 [90m6ms[0m
+[90mGET /cgi-bin/login.html [33m404 [90m1ms[0m
+[90mGET /user/ [33m404 [90m2ms[0m
+[90mGET /tmUnblock.cgi [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m107ms - 7.9kb[0m
+[90mGET /querylist [36m304 [90m22ms[0m
+[90mGET /querylist [36m304 [90m5ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://onlinelibrary.wiley.com/ [32m200 [90m107ms - 7.9kb[0m
+[90mGET /tmUnblock.cgi [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m131ms - 7.9kb[0m
+[90mGET /querylist [36m304 [90m7ms[0m
+[90mGET /querylist [36m304 [90m6ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m92ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m97ms - 7.9kb[0m
+[90mGET /muieblackcat [33m404 [90m1ms[0m
+[90mGET //phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //phpmyadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //pma/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //myadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //MyAdmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET /querylist [32m200 [90m6ms - 38.2kb[0m
+[90mGET /querylist [32m200 [90m6ms - 38.47kb[0m
+[90mGET /querylist [32m200 [90m19ms - 38.2kb[0m
+[90mGET /querylist [32m200 [90m7ms - 39.31kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://www.google.com/ [32m200 [90m92ms - 7.9kb[0m
+[90mGET http://cachefly.cachefly.net/networkmap/index.html [33m404 [90m1ms[0m
+[90mGET http://cachefly.cachefly.net/networkmap/index.html [33m404 [90m2ms[0m
+[90mGET /muieblackcat [33m404 [90m2ms[0m
+[90mGET //phpMyAdmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //phpmyadmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET //pma/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //myadmin/scripts/setup.php [33m404 [90m2ms[0m
+[90mGET //MyAdmin/scripts/setup.php [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://24x7-allrequestsallowed.com/?PHPSESSID=a45ad01b00143PP%5BJWWHY%40%40%5EJFQ%5C [32m200 [90m86ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m111ms - 7.9kb[0m
+[90mGET /robots.txt [33m404 [90m2ms[0m
+[90mGET /querylist [32m200 [90m11ms - 40.72kb[0m
+[90mGET /querylist [36m304 [90m9ms[0m
+[90mGET /tmUnblock.cgi [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m130ms - 7.9kb[0m
+[90mGET /querylist [32m200 [90m7ms - 40.72kb[0m
+[90mHEAD /index.action [33m404 [90m1ms[0m
+[90mHEAD /login.action [33m404 [90m2ms[0m
+[90mHEAD /login.do [33m404 [90m1ms[0m
+[90mHEAD /unAuthorizedAccess.action [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [36m304 [90m91ms[0m
+[90mGET /stylesheets/bootstrap_overrides.css [36m304 [90m1ms[0m
+[90mGET /javascripts/global.js [36m304 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://link.springer.com/ [32m200 [90m90ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m105ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [36m304 [90m90ms[0m
+[90mGET /stylesheets/bootstrap_overrides.css [36m304 [90m1ms[0m
+[90mGET /javascripts/global.js [36m304 [90m1ms[0m
+[90mGET /querylist [36m304 [90m26ms[0m
+[90mHEAD /index.action [33m404 [90m2ms[0m
+[90mHEAD /login.action [33m404 [90m1ms[0m
+[90mHEAD /login!in [33m404 [90m1ms[0m
+[90mHEAD /login.do [33m404 [90m2ms[0m
+[90mHEAD /unAuthorizedAccess.action [33m404 [90m1ms[0m
+[90mGET http://85.17.141.182/proxychecker/check.cgi?action=getinfo [33m404 [90m1ms[0m
+[90mGET /andro/back.css [33m404 [90m2ms[0m
+[90mGET /theme/failed.png [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m86ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m85ms - 7.9kb[0m
+[90mGET /phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /pma/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /myadmin/scripts/setup.php [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m113ms - 7.9kb[0m
+[90mGET /Ringing.at.your.dorbell! [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m108ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m91ms - 7.9kb[0m
+[90mGET /Diagnostics.asp [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m104ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m91ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m89ms - 7.9kb[0m
+[90mGET /querylist [36m304 [90m7ms[0m
+[90mPOST /moadmin.php [33m404 [90m1ms[0m
+[90mPOST /phpMoAdmin/moadmin.php [33m404 [90m1ms[0m
+[90mGET http://www.sciencedirect.com/science/journal/16841182 [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://www.sciencedirect.com/ [32m200 [90m87ms - 7.9kb[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /vtigercrm/LICENSE.txt [33m404 [90m2ms[0m
+[90mGET /a2billing/customer/javascript/misc.js [33m404 [90m1ms[0m
+[90mGET /root/back.css [33m404 [90m2ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m2ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /manager/html [33m404 [90m1ms[0m
+[90mGET /e7/theme/failed.png [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mHEAD / [32m200 [90m120ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m114ms - 7.9kb[0m
+[90mGET /querylist [36m304 [90m7ms[0m
+[90mGET /querylist [32m200 [90m7ms - 41.23kb[0m
+[90mGET /querylist [36m304 [90m6ms[0m
+[90mGET /querylist [36m304 [90m19ms[0m
+[90mGET /querylist [36m304 [90m6ms[0m
+[90mGET /querylist [32m200 [90m6ms - 41.28kb[0m
+[90mGET /querylist [32m200 [90m7ms - 42.36kb[0m
+[90mGET /querylist [32m200 [90m7ms - 42.42kb[0m
+[90mGET /querylist [32m200 [90m7ms - 49.98kb[0m
+[90mGET /querylist [36m304 [90m6ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m90ms - 7.9kb[0m
+[90mGET /robots.txt [33m404 [90m2ms[0m
+[90mGET http://www.sciencedirect.com/science/jrnlallbooks/a/fulltext [33m404 [90m1ms[0m
+[90mGET /tmUnblock.cgi [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m91ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m167ms - 7.9kb[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://24x7-allrequestsallowed.com/?PHPSESSID=a45ad01b00143PP%5BJWWHY%40%40%5EJFQ%5C [32m200 [90m81ms - 7.9kb[0m
+[90mGET /querylist [32m200 [90m20ms - 49.98kb[0m
+[90mGET /Panel/back.css [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m91ms - 7.9kb[0m
+[90mGET /server/theme/failed.png [33m404 [90m2ms[0m
+[90mGET /querylist [32m200 [90m7ms - 49.98kb[0m
+[90mGET /querylist [32m200 [90m7ms - 49.98kb[0m
+[90mGET /phpMyAdmin/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /pma/scripts/setup.php [33m404 [90m1ms[0m
+[90mGET /myadmin/scripts/setup.php [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET http://www.google.com/ [32m200 [90m85ms - 7.9kb[0m
+[90mGET http://cachefly.cachefly.net/networkmap/index.html [33m404 [90m2ms[0m
+[90mGET /tmUnblock.cgi [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m83ms - 7.9kb[0m
+[90mGET http://cachefly.cachefly.net/networkmap/index.html [33m404 [90m1ms[0m
+[90mHEAD /robots.txt [33m404 [90m2ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m84ms - 7.9kb[0m
+[90mGET /panel/theme/failed.png [33m404 [90m1ms[0m
+Warning: missing space before text for line 35 of jade file.
+Warning: missing space before text for line 32 of jade file.
+Warning: missing space before text for line 26 of jade file.
+[90mGET / [32m200 [90m85ms - 7.9kb[0m
+[90mGET /querylist [32m200 [90m7ms - 49.98kb[0m

@@ -1,0 +1,78 @@
+""" generate-xml-nodes generates a list of xml trees from the imdb database"""
+
+from fractions import Fraction
+import imdb
+from lxml import etree
+import multiprocessing
+import os
+from sqlalchemy import create_engine, Integer, Table, Column, MetaData
+from sqlalchemy.orm import sessionmaker
+
+from multiprocessing import Process
+#from threading import Thread
+
+import time
+from xml.etree import ElementTree
+
+START_TIME = time.time()
+LOCAL_DB = imdb.IMDb('sql', uri='mysql://root:password@localhost/imdb')
+SAVE_PATH = '/home/dduoba/xmlfiles/'
+PROCESS_COUNT = multiprocessing.cpu_count()
+ENGINE = create_engine('mysql://root:password@localhost/imdb', echo=False)
+SESSION_CLASS = sessionmaker(bind=ENGINE)
+SESSION = SESSION_CLASS()
+METADATA = MetaData()
+TITLE_TABLE = Table("title", METADATA, Column('id', Integer))
+RECORD_COUNT = SESSION.query(TITLE_TABLE).count()
+#3224547 Total movies (as of 3/14/2015)
+
+def initiate_db_connection():
+
+
+# Create XML nodes
+def create_nodes(start, stop):
+    ''' create_nodes creates XML nodes '''
+
+    for mid in range(start, stop):
+
+        moviefile = 'movie-%d' % mid
+        moviefilepath = os.path.join(SAVE_PATH, moviefile + '.xml')
+
+        if not os.path.isfile(moviefilepath):
+            imdbfile = open(moviefilepath, 'w')
+            result = LOCAL_DB.get_movie(mid)
+            parser = etree.XMLParser(remove_blank_text=True)
+            tree = ElementTree.XML(result.asXML(), parser)
+            imdbfile.write(etree.tostring(tree, pretty_print=True))
+
+
+PROCESSES = []
+START = 1
+for x in range(1, (PROCESS_COUNT + 1)): #8 threads
+    FRACTION = Fraction(x, PROCESS_COUNT)
+    END = int(FRACTION*RECORD_COUNT)
+    CURRENT_PROCESS = Process(target=create_nodes, args=(START, END))
+    PROCESSES.append(CURRENT_PROCESS)
+    START = END
+
+
+'''
+START = 0
+while (START < RECORD_COUNT):
+'''
+'''
+FIRST_HALF = RECORD_COUNT / 2
+T1 = Thread(target=create_nodes, args=(1, FIRST_HALF))
+T2 = Thread(target=create_nodes, args=(FIRST_HALF, RECORD_COUNT + 1))
+
+THREADS = [T1, T2]
+'''
+
+print "STARTING RUN WITH %d PROCESSES" % len(PROCESSS)
+
+[x.start() for x in PROCESSES]
+[x.join() for x in PROCESSES]
+
+END_TIME = time.time()
+ELAPSED_TIME = (END_TIME - START_TIME)/60
+print "JOB FINISHED IN %d MINUTES" % ELAPSED_TIME

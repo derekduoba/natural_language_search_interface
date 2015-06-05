@@ -1,0 +1,673 @@
+Created executor: org.lemurproject.galago.tupleflow.execution.LocalCheckpointedStageExecutor@403f1e93
+2015-04-25 02:07:27.652:INFO:oejs.Server:jetty-7.6.8.v20121106
+2015-04-25 02:07:27.726:INFO:oejs.AbstractConnector:Started SelectChannelConnector@0.0.0.0:8888
+Processing directory: /home/dduoba/data/galago/corpus
+ * Treating as a corpus (this will skip any other files that happen to be in that directory)
+Apr 25, 2015 2:07:28 AM org.lemurproject.galago.core.parse.DocumentSource processCorpusFile
+INFO: Splitting corpus into 2
+Stage inputSplit completed with 0 errors.
+Apr 25, 2015 2:07:28 AM org.lemurproject.galago.core.parse.UniversalParser process
+INFO: Processing split: /home/dduoba/data/galago/corpus with: org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:07:54 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 10000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:08:18 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 20000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:08:45 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 30000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:09:13 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 40000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:09:36 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 50000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:10:08 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 60000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:10:34 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 70000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:11:01 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 80000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:11:25 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 90000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:11:51 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 100000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:12:17 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 110000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:12:44 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 120000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:13:12 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 130000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:13:36 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 140000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:14:03 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 150000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:14:30 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 160000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:14:57 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 170000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:15:25 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 180000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:15:48 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 190000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:16:13 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 200000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:16:43 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 210000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:17:08 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 220000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:17:36 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 230000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:18:00 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 240000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:18:28 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 250000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:18:54 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 260000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:19:21 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 270000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:19:50 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 280000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:20:14 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 290000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:20:40 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 300000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:21:06 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 310000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:21:37 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 320000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:22:00 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 330000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:22:23 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 340000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:22:51 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 350000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:23:17 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 360000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:23:48 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 370000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:24:10 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 380000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:24:40 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 390000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:25:05 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 400000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:25:32 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 410000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:25:56 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 420000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:26:22 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 430000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:26:48 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 440000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:27:15 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 450000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:27:43 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 460000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:28:06 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 470000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:28:31 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 480000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:29:01 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 490000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:29:26 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 500000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:29:50 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 510000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:30:20 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 520000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:30:45 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 530000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:31:14 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 540000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:31:40 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 550000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:32:01 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 560000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:32:31 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 570000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:32:56 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 580000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:33:26 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 590000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:33:53 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 600000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:34:21 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 610000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:34:44 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 620000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:35:09 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 630000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:35:38 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 640000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:36:05 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 650000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:36:31 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 660000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:36:55 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 670000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:37:20 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 680000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:37:49 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 690000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:38:16 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 700000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:38:42 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 710000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:39:06 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 720000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:39:34 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 730000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:40:01 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 740000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:40:28 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 750000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:40:56 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 760000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:41:19 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 770000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:41:45 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 780000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:42:12 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 790000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:42:40 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 800000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:43:08 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 810000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:43:32 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 820000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:44:00 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 830000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:44:27 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 840000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:44:55 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 850000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:45:18 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 860000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:45:48 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 870000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:46:12 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 880000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:46:36 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 890000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:47:06 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 900000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:47:30 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 910000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:47:54 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 920000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:48:24 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 930000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:48:48 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 940000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:49:18 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 950000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:49:41 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 960000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:50:11 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 970000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:50:37 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 980000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:51:03 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 990000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:51:26 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1000000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:51:52 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1010000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:52:18 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1020000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:52:45 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1030000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:53:13 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1040000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:53:37 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1050000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:54:03 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1060000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:54:29 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1070000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:54:56 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1080000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:55:24 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1090000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:55:48 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1100000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:56:16 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1110000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:56:42 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1120000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:57:12 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1130000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:57:37 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1140000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:58:00 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1150000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:58:26 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1160000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:58:53 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1170000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:59:22 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1180000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 2:59:46 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1190000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:00:10 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1200000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:00:40 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1210000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:01:04 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1220000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:01:33 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1230000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:01:57 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1240000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:02:21 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1250000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:02:49 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1260000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:03:16 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1270000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:03:45 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1280000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:04:09 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1290000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:04:39 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1300000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:05:04 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1310000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:05:28 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1320000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:05:56 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1330000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:06:20 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1340000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:06:49 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1350000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:07:16 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1360000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:07:45 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1370000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:08:08 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1380000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:08:36 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1390000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:09:04 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1400000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:09:31 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1410000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:09:59 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1420000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:10:22 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1430000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:10:50 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1440000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:11:17 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1450000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:11:47 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1460000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:12:12 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1470000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:12:36 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1480000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:13:03 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1490000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:13:30 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1500000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:13:58 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1510000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:14:23 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1520000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:14:53 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1530000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:15:19 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1540000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:15:43 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1550000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:16:11 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1560000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:16:36 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1570000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:17:06 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1580000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:17:35 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1590000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:18:02 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1600000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:18:26 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1610000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:18:34 AM org.lemurproject.galago.core.parse.UniversalParser process
+INFO: Processed 1612254 total in split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:18:34 AM org.lemurproject.galago.core.parse.UniversalParser process
+INFO: Processing split: /home/dduoba/data/galago/corpus with: org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:19:00 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 10000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:19:24 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 20000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:19:52 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 30000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:20:18 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 40000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:20:47 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 50000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:21:14 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 60000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:21:38 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 70000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:22:06 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 80000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:22:31 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 90000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:23:01 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 100000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:23:26 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 110000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:23:48 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 120000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:24:17 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 130000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:24:43 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 140000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:25:10 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 150000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:25:37 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 160000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:26:01 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 170000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:26:29 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 180000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:26:54 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 190000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:27:21 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 200000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:27:47 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 210000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:28:12 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 220000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:28:40 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 230000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:29:03 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 240000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:29:33 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 250000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:29:58 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 260000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:30:27 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 270000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:30:51 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 280000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:31:16 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 290000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:31:45 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 300000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:32:13 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 310000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:32:41 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 320000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:33:05 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 330000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:33:29 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 340000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:33:59 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 350000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:34:26 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 360000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:34:54 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 370000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:35:18 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 380000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:35:42 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 390000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:36:12 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 400000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:36:36 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 410000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:37:05 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 420000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:37:28 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 430000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:37:53 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 440000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:38:22 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 450000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:38:48 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 460000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:39:14 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 470000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:39:38 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 480000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:40:06 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 490000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:40:32 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 500000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:41:05 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 510000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:41:30 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 520000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:41:53 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 530000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:42:20 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 540000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:42:47 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 550000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:43:18 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 560000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:43:43 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 570000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:44:10 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 580000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:44:36 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 590000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:45:06 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 600000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:45:30 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 610000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:45:57 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 620000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:46:26 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 630000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:46:54 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 640000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:47:19 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 650000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:47:46 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 660000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:48:11 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 670000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:48:40 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 680000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:49:05 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 690000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:49:33 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 700000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:49:57 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 710000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:50:22 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 720000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:50:53 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 730000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:51:18 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 740000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:51:46 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 750000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:52:09 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 760000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:52:34 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 770000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:53:04 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 780000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:53:31 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 790000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:53:59 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 800000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:54:22 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 810000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:54:48 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 820000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:55:17 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 830000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:55:42 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 840000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:56:10 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 850000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:56:34 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 860000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:56:59 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 870000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:57:28 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 880000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:57:55 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 890000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:58:22 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 900000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:58:46 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 910000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:59:12 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 920000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 3:59:38 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 930000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:00:05 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 940000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:00:33 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 950000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:00:56 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 960000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:01:25 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 970000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:01:49 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 980000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:02:19 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 990000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:02:46 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1000000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:03:10 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1010000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:03:36 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1020000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:04:02 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1030000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:04:32 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1040000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:04:57 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1050000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:05:21 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1060000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:05:47 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1070000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:06:13 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1080000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:06:40 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1090000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:07:08 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1100000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:07:32 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1110000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:07:58 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1120000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:08:24 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1130000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:08:52 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1140000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:09:21 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1150000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:09:44 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1160000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:10:12 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1170000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:10:39 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1180000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:11:06 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1190000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:11:33 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1200000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:11:56 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1210000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:12:22 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1220000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:12:48 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1230000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:13:18 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1240000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:13:43 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1250000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:14:10 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1260000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:14:37 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1270000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:15:01 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1280000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:15:30 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1290000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:15:55 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1300000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:16:25 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1310000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:16:51 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1320000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:17:19 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1330000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:17:42 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1340000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:18:07 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1350000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:18:37 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1360000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:19:04 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1370000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:19:29 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1380000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:19:56 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1390000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:20:21 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1400000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:20:50 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1410000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:21:17 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1420000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:21:39 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1430000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:22:09 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1440000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:22:34 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1450000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:23:03 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1460000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:23:30 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1470000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:23:55 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1480000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:24:22 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1490000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:24:46 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1500000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:25:15 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1510000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:25:42 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1520000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:26:04 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1530000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:26:34 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1540000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:26:57 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1550000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:27:27 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1560000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:27:54 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1570000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:28:22 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1580000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:28:45 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1590000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:29:08 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1600000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:29:37 AM org.lemurproject.galago.core.parse.UniversalParser process
+WARNING: Read 1610000 from split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Apr 25, 2015 4:29:40 AM org.lemurproject.galago.core.parse.UniversalParser process
+INFO: Processed 1612250 total in split: /home/dduoba/data/galago/corpus with class org.lemurproject.galago.core.parse.CorpusSplitParser
+Stage parsePostings completed with 0 errors.
+Stage writeFields completed with 0 errors.
+Stage writeCorpusKeys completed with 0 errors.
+Stage writeNamesRev completed with 0 errors.
+Stage writeNames completed with 0 errors.
+Stage writeLengths completed with 0 errors.
+Stage writeExtents completed with 0 errors.
+Stage writePostings-krovetz completed with 0 errors.
+Stage writePostings completed with 0 errors.
+Stage writeExtentPostings-krovetz completed with 0 errors.
+Stage writeExtentPostings completed with 0 errors.
+Done Indexing.
+Documents Indexed: 3224504.

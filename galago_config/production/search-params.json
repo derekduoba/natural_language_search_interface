@@ -1,0 +1,5 @@
+{
+    "port": 8080,
+    "index": "/home/dduoba/data/galago/galago-index",
+    "corpus": "/home/dduoba/data/galago/galago-corpus"
+}

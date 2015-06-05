@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/dduoba/www/imdb-query-search/public/stylesheets'
+let g:netrw_dirhist_2='/home/dduoba/code/xml_modification'
+let g:netrw_dirhist_3='/home/dduoba/code/python-scripts/search_evaluation'

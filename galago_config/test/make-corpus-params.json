@@ -1,0 +1,10 @@
+{
+    "server": true,
+    "corpusFormat": "folder",
+    "mode": "threaded",
+    "distrib": 1,
+    "port": 8888,
+    "galagoJobDir": "/home/dduoba/tmp/galago/",
+    "corpusPath": "/home/dduoba/data/galagotest/testcorpus",
+    "inputPath": "/home/dduoba/data/testxmlfiles/"
+}

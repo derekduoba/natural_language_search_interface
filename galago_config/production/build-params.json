@@ -1,0 +1,13 @@
+{
+    "server": true,
+    "corpusFormat": "folder",
+    "mode": "local",
+    "distrib": 1,
+    "port": 8888,
+    "galagoJobDir": "/home/dduoba/tmp/galago/",
+    "indexPath": "/home/dduoba/data/galago/index",
+    "inputPath": "/home/dduoba/data/galago/corpus",
+    "tokenizer": {
+        "fields" : ["producer", "movie", "title", "cast", "writer", "genres", "director", "year", "kind", "languages", "countries", "release-dates", "distributors", "follows", "runtimes", "locations", "keywords", "production-companies", "rating", "followed-by", "connections"]
+    }
+}
